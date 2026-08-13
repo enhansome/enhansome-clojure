@@ -1,0 +1,3773 @@
+{
+  "items": [
+    {
+      "description": "Answers why the lisp shines, killer features in action",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "core.async",
+          "description": "transforms AST into CSP programs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-12T14:30:05Z",
+            "owner": "clojure",
+            "repo": "core.async",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meander",
+          "description": "transparent data transformation using datastructure pattermatching",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-09-08T14:28:43Z",
+            "owner": "noprompt",
+            "repo": "meander",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "missionary",
+          "description": "a reactive dataflow programming toolkit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-26T15:47:11Z",
+            "owner": "leonoel",
+            "repo": "missionary",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloroutine",
+          "description": "suspends and continuations (coroutines)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-20T10:20:38Z",
+            "owner": "leonoel",
+            "repo": "cloroutine",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proteus",
+          "description": "introduce mutable variables (don't use, just learn how to map your mind into immutable world)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2016-10-24T14:41:02Z",
+            "owner": "ztellman",
+            "repo": "proteus",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metaclj",
+          "description": "staged compilation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-10-29T00:14:50Z",
+            "owner": "brandonbloom",
+            "repo": "metaclj",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "photon",
+          "description": "realtime web, like Meteor, but for Clojure(Script)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-04-05T00:41:18Z",
+            "owner": "venantius",
+            "repo": "photon",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Awesome macros usage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "specter",
+          "description": "an elegant API for querying and transforming nested and recursive data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-09-30T05:13:29Z",
+            "owner": "redplanetlabs",
+            "repo": "specter",
+            "stars": 2620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hitchhiker Tree",
+          "description": "create fast, snapshottable, massively scalable databases",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-07-22T21:01:33Z",
+            "owner": "datacrypt-project",
+            "repo": "hitchhiker-tree",
+            "stars": 1217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bifurcan",
+          "description": "linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) in clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-30T22:26:21Z",
+            "owner": "lacuna",
+            "repo": "bifurcan",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meander",
+          "description": "transparent data transformation (defined as pattern-matching)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-09-08T14:28:43Z",
+            "owner": "noprompt",
+            "repo": "meander",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Durable Queue",
+          "description": "queue persisted on disk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-30T02:49:50Z",
+            "owner": "clj-commons",
+            "repo": "durable-queue",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ordered",
+          "description": "ordered sets and maps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-03-20T12:40:47Z",
+            "owner": "clj-commons",
+            "repo": "ordered",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duratom",
+          "description": "persisted atoms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-12-09T21:08:44Z",
+            "owner": "jimpil",
+            "repo": "duratom",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Finger Tree",
+          "description": "double-list, counted-double-list, counted-sorted-set",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-30T22:20:14Z",
+            "owner": "clojure",
+            "repo": "data.finger-tree",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persistent AVL trees",
+          "description": "persistent sorted maps and sets with log-time rank queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-30T23:36:06Z",
+            "owner": "clojure",
+            "repo": "data.avl",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lazy Map",
+          "description": "whose values are only calculated when accessed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-05-27T01:43:32Z",
+            "owner": "Malabarba",
+            "repo": "lazy-map-clojure",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical set",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-09-24T12:03:36Z",
+            "owner": "llasram",
+            "repo": "hier-set",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Advanced datastructures"
+    },
+    {
+      "description": "Actually don't search rails/django here, but compose them by yourself",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Compojure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-09-15T14:44:43Z",
+            "owner": "weavejester",
+            "repo": "compojure",
+            "stars": 4111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pedestal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-02T15:23:28Z",
+            "owner": "pedestal",
+            "repo": "pedestal",
+            "stars": 2775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fulcro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-15T18:10:11Z",
+            "owner": "fulcrologic",
+            "repo": "fulcro",
+            "stars": 1610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reitit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-07T11:46:40Z",
+            "owner": "metosin",
+            "repo": "reitit",
+            "stars": 1577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-10-09T14:31:42Z",
+            "owner": "duct-framework",
+            "repo": "duct",
+            "stars": 1153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compojure-api",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-11-04T20:35:42Z",
+            "owner": "metosin",
+            "repo": "compojure-api",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yada",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-06T07:40:59Z",
+            "owner": "juxt",
+            "repo": "yada",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datsys",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-12-18T18:33:28Z",
+            "owner": "metasoarous",
+            "repo": "datsys",
+            "stars": 232
+          }
+        }
+      ],
+      "title": "Web Framework"
+    },
+    {
+      "description": "Managed lifecycle of stateful objects",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Component",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-10-25T16:10:36Z",
+            "owner": "stuartsierra",
+            "repo": "component",
+            "stars": 2160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Integrant",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-01-07T12:08:00Z",
+            "owner": "weavejester",
+            "repo": "integrant",
+            "stars": 1357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mount",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-11T01:45:59Z",
+            "owner": "tolitius",
+            "repo": "mount",
+            "stars": 1255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-08-16T04:58:41Z",
+            "owner": "danielsz",
+            "repo": "system",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clip",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-28T16:51:08Z",
+            "owner": "juxt",
+            "repo": "clip",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piotr-yuxuan/closeable-map",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-28T18:54:49Z",
+            "owner": "piotr-yuxuan",
+            "repo": "closeable-map",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darkleaf/di",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-07T14:49:15Z",
+            "owner": "darkleaf",
+            "repo": "di",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Dependency injection"
+    },
+    {
+      "description": "Libraries for project build automation and package/dependency management.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leiningen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-08T15:12:19Z",
+            "owner": "technomancy",
+            "repo": "leiningen",
+            "stars": 7297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadow-cljs",
+          "description": "(Clojurescript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-10T17:44:03Z",
+            "owner": "thheller",
+            "repo": "shadow-cljs",
+            "stars": 2402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Boot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-04-22T20:43:31Z",
+            "owner": "boot-clj",
+            "repo": "boot",
+            "stars": 1749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojurephant",
+          "description": "(Gradle plugin)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2025-11-06T23:10:06Z",
+            "owner": "clojurephant",
+            "repo": "clojurephant",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "tools.build",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "build.simple",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Clojure",
+                "last_commit": "2023-11-08T20:39:35Z",
+                "owner": "gnl",
+                "repo": "build.simple",
+                "stars": 33
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Build Automation and Package management"
+    },
+    {
+      "description": "Libraries for working with dates and times.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clj-time",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-09-13T17:45:17Z",
+            "owner": "clj-time",
+            "repo": "clj-time",
+            "stars": 737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tick",
+          "description": "Clojure(Script) library, intended as replacement for clj-time",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-13T10:57:00Z",
+            "owner": "juxt",
+            "repo": "tick",
+            "stars": 643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure.java-time",
+          "description": "Java 8 Date-Time API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-07-01T01:56:54Z",
+            "owner": "dm3",
+            "repo": "clojure.java-time",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timewords",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-09-04T08:53:40Z",
+            "owner": "tokenmill",
+            "repo": "timewords",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "holi",
+          "description": "Calendar operations that are aware of weekends and holidays",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-05T13:47:50Z",
+            "owner": "luciolucio",
+            "repo": "holi",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Date and Time"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "seesaw",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-07-28T19:55:45Z",
+            "owner": "clj-commons",
+            "repo": "seesaw",
+            "stars": 1485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trikl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-11-15T15:48:51Z",
+            "owner": "lambdaisland",
+            "repo": "trikl",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fx-clj",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-05-22T09:59:37Z",
+            "owner": "aaronc",
+            "repo": "fx-clj",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "Libraries for working with HTTP.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ring",
+          "description": "HTTP server abstraction",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-23T11:46:28Z",
+            "owner": "ring-clojure",
+            "repo": "ring",
+            "stars": 3880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aleph",
+          "description": "Async client/server based on Netty, with defaults for HTTP, TCP and UDP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-15T14:02:47Z",
+            "owner": "clj-commons",
+            "repo": "aleph",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-kit",
+          "description": "Simple, high-performance event-driven HTTP client and server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-31T13:30:57Z",
+            "owner": "http-kit",
+            "repo": "http-kit",
+            "stars": 2567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-http",
+          "description": "Apache HttpComponents client wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-30T22:13:14Z",
+            "owner": "dakrone",
+            "repo": "clj-http",
+            "stars": 1824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hato",
+          "description": "An HTTP client for Clojure, wrapping JDK 11's HttpClient",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-07-16T13:20:14Z",
+            "owner": "gnarroway",
+            "repo": "hato",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kvlt",
+          "description": "Uniform, asychronous client interface for HTTP across JVM / Node / browsers",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2018-01-19T08:26:36Z",
+            "owner": "nervous-systems",
+            "repo": "kvlt",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "HTTP"
+    },
+    {
+      "description": "Databases and database client libraries",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Datascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-10-11T09:46:42Z",
+            "owner": "tonsky",
+            "repo": "datascript",
+            "stars": 5781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtdb",
+          "description": "bitemporal database for SQL, Datalog & graph queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T15:29:09Z",
+            "owner": "xtdb",
+            "repo": "xtdb",
+            "stars": 3041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datahike",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T02:11:20Z",
+            "owner": "replikativ",
+            "repo": "datahike",
+            "stars": 1859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datalevin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T05:32:50Z",
+            "owner": "datalevin",
+            "repo": "datalevin",
+            "stars": 1466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "next.jdbc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-03T18:26:06Z",
+            "owner": "seancorfield",
+            "repo": "next-jdbc",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure.java.jdbc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-01-02T15:17:02Z",
+            "owner": "clojure",
+            "repo": "java.jdbc",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spandex",
+          "description": "for ElasticSearch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-02T07:13:06Z",
+            "owner": "mpenet",
+            "repo": "spandex",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alia",
+          "description": "for Cassandra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-16T16:29:02Z",
+            "owner": "mpenet",
+            "repo": "alia",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-rethinkdb",
+          "description": "for RethinkDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-04-24T03:12:49Z",
+            "owner": "apa512",
+            "repo": "clj-rethinkdb",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revise",
+          "description": "for RethinkDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-02-04T21:14:41Z",
+            "owner": "bitemyapp",
+            "repo": "revise",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure.jdbc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-03-01T17:13:14Z",
+            "owner": "funcool",
+            "repo": "clojure.jdbc",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cravendb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2013-12-25T15:58:46Z",
+            "owner": "robashton",
+            "repo": "cravendb",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aerospike-clj",
+          "description": "for Aerospike",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-03-31T14:40:28Z",
+            "owner": "AppsFlyer",
+            "repo": "aerospike-clj",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cmql",
+          "description": "for MongoDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-03-14T15:07:52Z",
+            "owner": "tkaryadis",
+            "repo": "squery-mongo-core",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "Database connection pools",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hikari-cp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-16T15:20:38Z",
+            "owner": "tomekw",
+            "repo": "hikari-cp",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metabase/connection-pool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-08-21T20:57:00Z",
+            "owner": "metabase",
+            "repo": "connection-pool",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Connection pools"
+    },
+    {
+      "description": "Keeps database and others in sync",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Migratus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-14T19:30:24Z",
+            "owner": "yogthos",
+            "repo": "migratus",
+            "stars": 687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ragtime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-09-23T14:39:42Z",
+            "owner": "weavejester",
+            "repo": "ragtime",
+            "stars": 641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-12-18T11:44:16Z",
+            "owner": "juxt",
+            "repo": "joplin",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lobos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2016-11-18T20:46:11Z",
+            "owner": "budu",
+            "repo": "lobos",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drift",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-05-10T09:21:46Z",
+            "owner": "macourtney",
+            "repo": "drift",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "Structural Migrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "carmine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-07T10:06:35Z",
+            "owner": "taoensso",
+            "repo": "carmine",
+            "stars": 1178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "celtuce",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2021-08-07T00:55:24Z",
+            "owner": "lerouxrgd",
+            "repo": "celtuce",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Redis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cheshire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-25T16:35:25Z",
+            "owner": "dakrone",
+            "repo": "cheshire",
+            "stars": 1556
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonista",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-03-27T10:54:02Z",
+            "owner": "metosin",
+            "repo": "jsonista",
+            "stars": 470
+          }
+        }
+      ],
+      "title": "JSON"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pronto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-05-22T09:57:20Z",
+            "owner": "AppsFlyer",
+            "repo": "pronto",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lein-protodeps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-10T07:58:30Z",
+            "owner": "AppsFlyer",
+            "repo": "lein-protodeps",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protojure",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Protocol Buffers and gRPC"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Database Cli"
+    },
+    {
+      "description": "DSL for SQL generation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "honeysql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-03T18:26:28Z",
+            "owner": "seancorfield",
+            "repo": "honeysql",
+            "stars": 1915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Korma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-10-15T17:12:25Z",
+            "owner": "korma",
+            "repo": "Korma",
+            "stars": 1469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toucan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-04T22:44:49Z",
+            "owner": "metabase",
+            "repo": "toucan",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Walkable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-01-31T20:01:23Z",
+            "owner": "walkable-server",
+            "repo": "walkable",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlingvo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-05-07T19:37:11Z",
+            "owner": "r0man",
+            "repo": "sqlingvo",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-20T10:19:35Z",
+            "owner": "tatut",
+            "repo": "specql",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stch-library/sql",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-04-28T01:30:36Z",
+            "owner": "stch-library",
+            "repo": "sql",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlium",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "ORM and SQL generation"
+    },
+    {
+      "description": "Authentication, authorization and other security related libraries.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Friend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2021-03-08T14:41:08Z",
+            "owner": "cemerick",
+            "repo": "friend",
+            "stars": 1152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buddy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-05-28T14:53:05Z",
+            "owner": "funcool",
+            "repo": "buddy",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caesium",
+          "description": "(libsodium bindings)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-09-15T19:14:04Z",
+            "owner": "lvh",
+            "repo": "caesium",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bolt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-07-22T10:20:52Z",
+            "owner": "juxt",
+            "repo": "bolt",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "secrets.clj",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-04-05T09:00:35Z",
+            "owner": "lk-geimfari",
+            "repo": "secrets.clj",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EACL",
+          "description": "Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T18:05:53Z",
+            "owner": "theronic",
+            "repo": "eacl",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "Libraries for developing RESTful APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "reitit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-07T11:46:40Z",
+            "owner": "metosin",
+            "repo": "reitit",
+            "stars": 1577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compojure-api",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-11-04T20:35:42Z",
+            "owner": "metosin",
+            "repo": "compojure-api",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yada",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-06T07:40:59Z",
+            "owner": "juxt",
+            "repo": "yada",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Friboo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2017-06-09T08:44:40Z",
+            "owner": "zalando",
+            "repo": "friboo",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "router",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-04-30T14:48:23Z",
+            "owner": "darkleaf",
+            "repo": "router",
+            "stars": 80
+          }
+        }
+      ],
+      "title": "RESTful API"
+    },
+    {
+      "description": "Libraries for working with HTML.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hiccup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-06-19T14:59:18Z",
+            "owner": "weavejester",
+            "repo": "hiccup",
+            "stars": 2855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enlive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-01-17T12:51:48Z",
+            "owner": "cgrand",
+            "repo": "enlive",
+            "stars": 1617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selmer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-08T16:19:09Z",
+            "owner": "yogthos",
+            "repo": "Selmer",
+            "stars": 1042
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clostache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-03-10T10:11:45Z",
+            "owner": "fhd",
+            "repo": "clostache",
+            "stars": 325
+          }
+        }
+      ],
+      "title": "HTML Manipulation"
+    },
+    {
+      "description": "Libraries for validating data.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prismatic's schema",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-09T20:05:22Z",
+            "owner": "plumatic",
+            "repo": "schema",
+            "stars": 2461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malli",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-11T05:40:10Z",
+            "owner": "metosin",
+            "repo": "malli",
+            "stars": 1752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchestra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-01-01T20:39:28Z",
+            "owner": "jeaye",
+            "repo": "orchestra",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bouncer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-07-12T03:10:36Z",
+            "owner": "theleoborges",
+            "repo": "bouncer",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-03T12:57:13Z",
+            "owner": "fulcrologic",
+            "repo": "guardrails",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "struct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-09-08T22:40:01Z",
+            "owner": "funcool",
+            "repo": "struct",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clova",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-22T20:51:25Z",
+            "owner": "markwoodhall",
+            "repo": "clova",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "domaintypes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2014-11-24T20:07:58Z",
+            "owner": "friemen",
+            "repo": "domaintypes",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Data Validation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "core.match",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-30T19:06:21Z",
+            "owner": "clojure",
+            "repo": "core.match",
+            "stars": 1218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meander",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-09-08T14:28:43Z",
+            "owner": "noprompt",
+            "repo": "meander",
+            "stars": 982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "defun",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-20T16:42:02Z",
+            "owner": "killme2008",
+            "repo": "defun",
+            "stars": 503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T21:03:47Z",
+            "owner": "missingfaktor",
+            "repo": "akar",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verbal-Exprejon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2016-05-12T11:54:51Z",
+            "owner": "WeshGuillaume",
+            "repo": "Verbal-Exprejon",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cats.match",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-04-10T09:32:34Z",
+            "owner": "zalando-stups",
+            "repo": "cats.match",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Pattern Matching"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "core.async",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-06-12T14:30:05Z",
+            "owner": "clojure",
+            "repo": "core.async",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manifold",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-03-16T13:27:37Z",
+            "owner": "clj-commons",
+            "repo": "manifold",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulsar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-02-05T08:27:44Z",
+            "owner": "puniverse",
+            "repo": "pulsar",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goose",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-22T12:49:55Z",
+            "owner": "nilenso",
+            "repo": "goose",
+            "stars": 312
+          }
+        }
+      ],
+      "title": "Async processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cats",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-03-20T19:06:08Z",
+            "owner": "funcool",
+            "repo": "cats",
+            "stars": 969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluokitten",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-01T21:32:26Z",
+            "owner": "uncomplicate",
+            "repo": "fluokitten",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algo.monads",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-30T20:40:49Z",
+            "owner": "clojure",
+            "repo": "algo.monads",
+            "stars": 468
+          }
+        }
+      ],
+      "title": "Monads"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aleph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-15T14:02:47Z",
+            "owner": "clj-commons",
+            "repo": "aleph",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sente",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-06T11:24:30Z",
+            "owner": "taoensso",
+            "repo": "sente",
+            "stars": 1787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chord",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-07-12T09:57:33Z",
+            "owner": "jarohen",
+            "repo": "chord",
+            "stars": 442
+          }
+        }
+      ],
+      "title": "WebSocket"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Midje",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-01-04T12:07:30Z",
+            "owner": "marick",
+            "repo": "Midje",
+            "stars": 1697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaocha",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-10-09T08:54:40Z",
+            "owner": "lambdaisland",
+            "repo": "kaocha",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expectations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-04-11T22:07:31Z",
+            "owner": "clojure-expectations",
+            "repo": "expectations",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StateFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-23T21:05:59Z",
+            "owner": "nubank",
+            "repo": "state-flow",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "test-doubles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-09-29T09:02:09Z",
+            "owner": "GreenPowerMonitor",
+            "repo": "test-doubles",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datest",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-11-26T11:35:33Z",
+            "owner": "amokfa",
+            "repo": "datest",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clj-kondo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-04T15:21:55Z",
+            "owner": "clj-kondo",
+            "repo": "clj-kondo",
+            "stars": 1848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kibit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-05-22T00:06:30Z",
+            "owner": "clj-commons",
+            "repo": "kibit",
+            "stars": 1755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eastwood",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-07-10T21:23:02Z",
+            "owner": "jonase",
+            "repo": "eastwood",
+            "stars": 1083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spectrum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-04-17T12:41:59Z",
+            "owner": "arohner",
+            "repo": "spectrum",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cloverage",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-11T19:19:54Z",
+            "owner": "cloverage",
+            "repo": "cloverage",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slamhound",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2020-10-01T20:00:38Z",
+            "owner": "technomancy",
+            "repo": "slamhound",
+            "stars": 510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yagni",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-09-30T13:07:31Z",
+            "owner": "venantius",
+            "repo": "yagni",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lein-bikeshed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-03-22T22:51:47Z",
+            "owner": "dakrone",
+            "repo": "lein-bikeshed",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-26T14:40:46Z",
+            "owner": "NoahTheDuke",
+            "repo": "splint",
+            "stars": 142
+          }
+        }
+      ],
+      "title": "Code Analysis and Linter"
+    },
+    {
+      "description": "Libraries, extended REPLs, and other tools for scientific and statistical data anylysis and visualization.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Incanter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-11-10T07:21:02Z",
+            "owner": "incanter",
+            "repo": "incanter",
+            "stars": 2249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Onyx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2019-08-31T10:58:07Z",
+            "owner": "onyx-platform",
+            "repo": "onyx",
+            "stars": 2051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neanderthal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-31T23:46:46Z",
+            "owner": "uncomplicate",
+            "repo": "neanderthal",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neanderthal - fast matrix and linear algebra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-31T23:46:46Z",
+            "owner": "uncomplicate",
+            "repo": "neanderthal",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loom - graph library for Clojure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-12-30T02:40:37Z",
+            "owner": "aysylu",
+            "repo": "loom",
+            "stars": 892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flambo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-07-31T18:22:41Z",
+            "owner": "sorenmacbeth",
+            "repo": "flambo",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparklling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-03-10T10:07:36Z",
+            "owner": "gorillalabs",
+            "repo": "sparkling",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayadera - Bayesian Data Analysis on the GPU",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-09-10T11:09:54Z",
+            "owner": "uncomplicate",
+            "repo": "bayadera",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClojureCL - parallel computations with OpenCL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-01T21:31:23Z",
+            "owner": "uncomplicate",
+            "repo": "clojurecl",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClojureCUDA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T23:07:11Z",
+            "owner": "uncomplicate",
+            "repo": "clojurecuda",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streaming Histograms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-12T13:16:01Z",
+            "owner": "bigmlcom",
+            "repo": "histogram",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "Science and Data Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deeplearning4j",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:47:19Z",
+            "owner": "deeplearning4j",
+            "repo": "deeplearning4j",
+            "stars": 14245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cortex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-09-10T20:29:23Z",
+            "owner": "rosejn",
+            "repo": "cortex",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neanderthal",
+          "description": "fast matrix library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-31T23:46:46Z",
+            "owner": "uncomplicate",
+            "repo": "neanderthal",
+            "stars": 1128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bayadera",
+          "description": "bayesian data analysis on the GPU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-09-10T11:09:54Z",
+            "owner": "uncomplicate",
+            "repo": "bayadera",
+            "stars": 371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flare",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-06-28T00:23:03Z",
+            "owner": "aria42",
+            "repo": "flare",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojurecl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-01T21:31:23Z",
+            "owner": "uncomplicate",
+            "repo": "clojurecl",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scicloj.ml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2025-11-02T13:32:54Z",
+            "owner": "scicloj",
+            "repo": "scicloj.ml",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojurecuda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T23:07:11Z",
+            "owner": "uncomplicate",
+            "repo": "clojurecuda",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-12-29T23:25:39Z",
+            "owner": "aria42",
+            "repo": "infer",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-ml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2016-02-22T14:38:21Z",
+            "owner": "antoniogarrote",
+            "repo": "clj-ml",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enclog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2016-05-04T18:56:12Z",
+            "owner": "jimpil",
+            "repo": "enclog",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure-tensorflow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2020-07-24T07:03:44Z",
+            "owner": "kieranbrowne",
+            "repo": "clojure-tensorflow",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k9",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-02-20T13:03:50Z",
+            "owner": "gigasquid",
+            "repo": "k9",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dl4clj (deeplearning4j to clojure)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-07-17T17:04:01Z",
+            "owner": "yetanalytics",
+            "repo": "dl4clj",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synaptic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2016-02-02T13:19:00Z",
+            "owner": "japonophile",
+            "repo": "synaptic",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lambda-ml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-11-03T06:21:13Z",
+            "owner": "cloudkj",
+            "repo": "lambda-ml",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clatern",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-08-10T01:34:08Z",
+            "owner": "rinuboney",
+            "repo": "clatern",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Statistiker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-07-06T19:29:56Z",
+            "owner": "clojurewerkz",
+            "repo": "statistiker",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-bigml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-03-27T18:38:45Z",
+            "owner": "bigmlcom",
+            "repo": "clj-bigml",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-synapses",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-08-15T08:14:40Z",
+            "owner": "mrdimosthenis",
+            "repo": "clj-synapses",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "origami",
+          "description": "OpenCV 4 wrapper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-19T14:29:02Z",
+            "owner": "hellonico",
+            "repo": "origami",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-tesseract",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-12-20T19:48:22Z",
+            "owner": "antoniogarrote",
+            "repo": "clj-tesseract",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Computer Vision"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clojure-opennlp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-11-27T14:37:14Z",
+            "owner": "dakrone",
+            "repo": "clojure-opennlp",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lmgrep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-03T22:08:38Z",
+            "owner": "dainiusjocas",
+            "repo": "lucene-grep",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postagga",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-12-15T05:51:02Z",
+            "owner": "turbopape",
+            "repo": "postagga",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beagle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-06-30T12:18:14Z",
+            "owner": "tokenmill",
+            "repo": "beagle",
+            "stars": 55
+          }
+        }
+      ],
+      "title": "Text Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Instaparse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-05-30T05:52:26Z",
+            "owner": "Engelberg",
+            "repo": "instaparse",
+            "stars": 2821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2019-05-30T14:10:47Z",
+            "owner": "facebookarchive",
+            "repo": "duckling_old",
+            "stars": 1321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kern",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-05-08T10:17:38Z",
+            "owner": "blancas",
+            "repo": "kern",
+            "stars": 241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buran",
+          "description": "RSS/Atom feed consumer and producer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-11T17:36:01Z",
+            "owner": "alekseysotnikov",
+            "repo": "buran",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Parsing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dire",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2016-01-24T23:56:10Z",
+            "owner": "MichaelDrogalis",
+            "repo": "dire",
+            "stars": 481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Perseverance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-03-07T12:14:50Z",
+            "owner": "grammarly",
+            "repo": "perseverance",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-10-22T12:20:31Z",
+            "owner": "mpenet",
+            "repo": "ex",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Exceptions and Error Handling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clara Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-27T17:59:42Z",
+            "owner": "oracle-samples",
+            "repo": "clara-rules",
+            "stars": 1232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "O'Doyle Rules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-05T15:58:14Z",
+            "owner": "oakes",
+            "repo": "odoyle-rules",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-03-31T15:13:42Z",
+            "owner": "yipeeio",
+            "repo": "arete",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Rule-based Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CIDER (Emacs)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-07T11:33:20Z",
+            "owner": "clojure-emacs",
+            "repo": "cider",
+            "stars": 3675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conjure (Neovim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Fennel",
+            "last_commit": "2026-07-24T12:52:36Z",
+            "owner": "Olical",
+            "repo": "conjure",
+            "stars": 2131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calva (VSCode)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T19:31:03Z",
+            "owner": "BetterThanTomorrow",
+            "repo": "calva",
+            "stars": 2080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smartparens (Emacs)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-01-29T12:14:19Z",
+            "owner": "Fuco1",
+            "repo": "smartparens",
+            "stars": 1942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-fireplace (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-11-01T19:25:28Z",
+            "owner": "tpope",
+            "repo": "vim-fireplace",
+            "stars": 1759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure-lsp (multiple editors)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-05T13:59:09Z",
+            "owner": "clojure-lsp",
+            "repo": "clojure-lsp",
+            "stars": 1319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aggressive-indent (Emacs)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2024-07-07T11:22:45Z",
+            "owner": "Malabarba",
+            "repo": "aggressive-indent-mode",
+            "stars": 881
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rainbow-delimiters (Emacs)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2023-08-30T16:00:23Z",
+            "owner": "Fanael",
+            "repo": "rainbow-delimiters",
+            "stars": 754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-iced (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim Script",
+            "last_commit": "2025-02-23T22:05:04Z",
+            "owner": "liquidz",
+            "repo": "vim-iced",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rainbow_parentheses.vim (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2018-06-13T00:43:37Z",
+            "owner": "junegunn",
+            "repo": "rainbow_parentheses.vim",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojureVSCode (VSCode)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T15:27:18Z",
+            "owner": "avli",
+            "repo": "clojureVSCode",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-leiningen (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-07-07T16:35:05Z",
+            "owner": "tpope",
+            "repo": "vim-salve",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-cljfmt (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2023-04-02T04:17:29Z",
+            "owner": "venantius",
+            "repo": "vim-cljfmt",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-redl (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2015-02-24T21:33:09Z",
+            "owner": "dgrnbrg",
+            "repo": "vim-redl",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vim-eastwood (Vim)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2020-12-01T00:04:41Z",
+            "owner": "venantius",
+            "repo": "vim-eastwood",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad++",
+          "description": "modified config files of Lisp",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-04T12:58:38Z",
+            "owner": "linpengcheng",
+            "repo": "ClojureBoxNpp",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Editor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "klipse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-10-01T08:57:24Z",
+            "owner": "viebel",
+            "repo": "klipse",
+            "stars": 3134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marginalia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-30T15:55:45Z",
+            "owner": "clj-commons",
+            "repo": "marginalia",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackfog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-05-19T15:34:53Z",
+            "owner": "neromous",
+            "repo": "blackfog.dsl",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Literate Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "slingshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-10-21T14:06:32Z",
+            "owner": "scgilardi",
+            "repo": "slingshot",
+            "stars": 652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "potemkin",
+          "description": "reexport vars in another ns / act like a clojure map",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-07T09:44:24Z",
+            "owner": "clj-commons",
+            "repo": "potemkin",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "virgil",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-01-08T23:15:41Z",
+            "owner": "clj-commons",
+            "repo": "virgil",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riddley",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-02-16T08:54:56Z",
+            "owner": "clj-commons",
+            "repo": "riddley",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-tuple",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2015-07-02T12:54:28Z",
+            "owner": "ztellman",
+            "repo": "clj-tuple",
+            "stars": 182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "javastar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2013-06-19T05:47:10Z",
+            "owner": "tailrecursion",
+            "repo": "javastar",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kezban",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-12-13T07:38:12Z",
+            "owner": "ertugrulcetin",
+            "repo": "kezban",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clj-grpc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-05-09T20:48:19Z",
+            "owner": "otwieracz",
+            "repo": "clj-grpc",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "figwheel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-03-26T22:29:38Z",
+            "owner": "bhauman",
+            "repo": "lein-figwheel",
+            "stars": 2875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ultra",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-02-16T16:23:57Z",
+            "owner": "venantius",
+            "repo": "ultra",
+            "stars": 1236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flow-storm-debugger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-10T18:27:37Z",
+            "owner": "flow-storm",
+            "repo": "flow-storm-debugger",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pretty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-04-27T19:33:40Z",
+            "owner": "clj-commons",
+            "repo": "pretty",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scope-capture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-07-17T11:57:04Z",
+            "owner": "vvvvalvalval",
+            "repo": "scope-capture",
+            "stars": 600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spyscope",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-12-25T12:22:15Z",
+            "owner": "dgrnbrg",
+            "repo": "spyscope",
+            "stars": 587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-13T12:13:30Z",
+            "owner": "magnars",
+            "repo": "prone",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tools.trace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-12-30T16:41:39Z",
+            "owner": "clojure",
+            "repo": "tools.trace",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ritz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2013-05-16T17:39:18Z",
+            "owner": "pallet",
+            "repo": "ritz",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "debugger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2018-06-07T13:46:10Z",
+            "owner": "razum2um",
+            "repo": "clj-debugger",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "debug-repl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2013-08-19T06:01:56Z",
+            "owner": "GeorgeJahad",
+            "repo": "debug-repl",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aprint",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2015-10-26T17:56:03Z",
+            "owner": "razum2um",
+            "repo": "aprint",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playback",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-03-16T12:03:44Z",
+            "owner": "gnl",
+            "repo": "playback",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mate-clj",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-02-17T14:50:36Z",
+            "owner": "AppsFlyer",
+            "repo": "mate-clj",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "packed-printer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2017-11-29T13:07:04Z",
+            "owner": "cgrand",
+            "repo": "packed-printer",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2014-08-02T16:07:02Z",
+            "owner": "dgrnbrg",
+            "repo": "redl",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "limit-break",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2012-08-04T14:58:35Z",
+            "owner": "technomancy",
+            "repo": "limit-break",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Debugging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "closh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-12-05T02:30:31Z",
+            "owner": "dundalek",
+            "repo": "closh",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure-lanterna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-02-26T17:51:42Z",
+            "owner": "MultiMUD",
+            "repo": "clojure-lanterna",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "triki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-11-15T15:48:51Z",
+            "owner": "lambdaisland",
+            "repo": "trikl",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zaffre",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-12-05T04:49:44Z",
+            "owner": "kelsey-sorrels",
+            "repo": "zaffre",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piotr-yuxuan/malli-cli",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-07-28T18:57:06Z",
+            "owner": "piotr-yuxuan",
+            "repo": "malli-cli",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Terminal UI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rhizome",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2017-09-28T09:18:07Z",
+            "owner": "ztellman",
+            "repo": "rhizome",
+            "stars": 452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dorothy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-12-17T04:11:51Z",
+            "owner": "daveray",
+            "repo": "dorothy",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "re-frame-flow",
+          "description": "Graph based visualization tool for re-frame event chains (ClojureScript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2021-05-18T09:05:19Z",
+            "owner": "ertugrulcetin",
+            "repo": "re-frame-flow",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fsmviz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-06-15T14:52:33Z",
+            "owner": "jebberjeb",
+            "repo": "fsmviz",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "viz.cljc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2020-06-18T09:42:44Z",
+            "owner": "jebberjeb",
+            "repo": "viz.cljc",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zipper-viz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2022-10-18T08:43:43Z",
+            "owner": "lambdaisland",
+            "repo": "zipper-viz",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Graphviz"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "play-cljc",
+          "description": "A Clojure and ClojureScript game library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-05T15:58:48Z",
+            "owner": "oakes",
+            "repo": "play-cljc",
+            "stars": 566
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jme-clj",
+          "description": "A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-09-12T21:50:37Z",
+            "owner": "ertugrulcetin",
+            "repo": "jme-clj",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Game Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Clojure Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T08:05:32Z",
+            "owner": "bbatsov",
+            "repo": "clojure-style-guide",
+            "stars": 4096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clojure-cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-01-12T10:11:30Z",
+            "owner": "clojure-cookbook",
+            "repo": "clojure-cookbook",
+            "stars": 2617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Error message catalog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-17T22:48:15Z",
+            "owner": "yogthos",
+            "repo": "clojure-error-message-catalog",
+            "stars": 441
+          }
+        }
+      ],
+      "title": "Guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wonderland Clojure Katas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2023-10-28T20:31:26Z",
+            "owner": "gigasquid",
+            "repo": "wonderland-clojure-katas",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rich4clojure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2025-06-16T06:58:00Z",
+            "owner": "PEZ",
+            "repo": "rich4clojure",
+            "stars": 235
+          }
+        }
+      ],
+      "title": "Exercises"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:29:52.614Z",
+    "original_repository": "razum2um/awesome-clojure",
+    "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
+    "enhanced_repository": "enhansome/enhansome-clojure",
+    "enhanced_repository_description": null,
+    "title": "Awesome Clojure with stars"
+  }
+}
