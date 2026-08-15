@@ -292,7 +292,7 @@
             "last_commit": "2026-07-02T15:23:28Z",
             "owner": "pedestal",
             "repo": "pedestal",
-            "stars": 2775
+            "stars": 2776
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-07-15T18:10:11Z",
             "owner": "fulcrologic",
             "repo": "fulcro",
-            "stars": 1610
+            "stars": 1611
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2019-09-04T08:53:40Z",
             "owner": "tokenmill",
             "repo": "timewords",
-            "stars": 32
+            "stars": 33
           }
         },
         {
@@ -808,7 +808,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-12T15:29:09Z",
+            "last_commit": "2026-08-14T19:53:07Z",
             "owner": "xtdb",
             "repo": "xtdb",
             "stars": 3041
@@ -822,7 +822,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-14T01:12:25Z",
+            "last_commit": "2026-08-15T04:31:37Z",
             "owner": "replikativ",
             "repo": "datahike",
             "stars": 1859
@@ -836,7 +836,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T23:41:03Z",
+            "last_commit": "2026-08-15T02:35:43Z",
             "owner": "datalevin",
             "repo": "datalevin",
             "stars": 1466
@@ -1033,7 +1033,7 @@
             "last_commit": "2026-07-14T19:30:24Z",
             "owner": "yogthos",
             "repo": "migratus",
-            "stars": 688
+            "stars": 687
           }
         },
         {
@@ -1399,7 +1399,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-12T18:05:53Z",
+            "last_commit": "2026-08-14T20:53:05Z",
             "owner": "theronic",
             "repo": "eacl",
             "stars": 89
@@ -1892,7 +1892,7 @@
             "last_commit": "2026-08-06T11:24:30Z",
             "owner": "taoensso",
             "repo": "sente",
-            "stars": 1787
+            "stars": 1788
           }
         },
         {
@@ -1940,7 +1940,7 @@
             "last_commit": "2025-10-09T08:54:40Z",
             "owner": "lambdaisland",
             "repo": "kaocha",
-            "stars": 860
+            "stars": 859
           }
         },
         {
@@ -2016,7 +2016,7 @@
             "last_commit": "2026-08-04T15:21:55Z",
             "owner": "clj-kondo",
             "repo": "clj-kondo",
-            "stars": 1848
+            "stars": 1847
           }
         },
         {
@@ -2305,10 +2305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T08:50:52Z",
+            "last_commit": "2026-08-15T09:36:32Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
-            "stars": 14244
+            "stars": 14245
           }
         },
         {
@@ -2800,7 +2800,7 @@
             "last_commit": "2026-04-27T17:59:42Z",
             "owner": "oracle-samples",
             "repo": "clara-rules",
-            "stars": 1232
+            "stars": 1233
           }
         },
         {
@@ -3269,7 +3269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-10T18:27:37Z",
+            "last_commit": "2026-08-14T19:04:32Z",
             "owner": "flow-storm",
             "repo": "flow-storm-debugger",
             "stars": 860
@@ -3763,7 +3763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:18:05.628Z",
+    "last_updated": "2026-08-15T09:42:37.656Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
     "enhanced_repository": "enhansome/enhansome-clojure",
