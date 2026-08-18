@@ -718,7 +718,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-07-15T14:02:47Z",
+            "last_commit": "2026-08-18T08:31:26Z",
             "owner": "clj-commons",
             "repo": "aleph",
             "stars": 2589
@@ -808,10 +808,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-17T04:13:52Z",
+            "last_commit": "2026-08-18T09:36:33Z",
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3042
+            "stars": 3043
           }
         },
         {
@@ -822,10 +822,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-17T09:04:07Z",
+            "last_commit": "2026-08-18T09:02:15Z",
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1859
+            "stars": 1860
           }
         },
         {
@@ -836,10 +836,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-17T03:46:56Z",
+            "last_commit": "2026-08-18T04:59:07Z",
             "owner": "datalevin",
             "repo": "datalevin",
-            "stars": 1467
+            "stars": 1469
           }
         },
         {
@@ -1219,10 +1219,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-15T18:06:10Z",
+            "last_commit": "2026-08-17T14:02:43Z",
             "owner": "seancorfield",
             "repo": "honeysql",
-            "stars": 1916
+            "stars": 1917
           }
         },
         {
@@ -1399,7 +1399,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-16T16:36:21Z",
+            "last_commit": "2026-08-17T23:54:24Z",
             "owner": "theronic",
             "repo": "eacl",
             "stars": 89
@@ -1560,7 +1560,7 @@
             "last_commit": "2026-08-09T20:05:22Z",
             "owner": "plumatic",
             "repo": "schema",
-            "stars": 2461
+            "stars": 2462
           }
         },
         {
@@ -1571,7 +1571,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-11T05:40:10Z",
+            "last_commit": "2026-08-17T12:59:41Z",
             "owner": "metosin",
             "repo": "malli",
             "stars": 1752
@@ -1875,7 +1875,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-07-15T14:02:47Z",
+            "last_commit": "2026-08-18T08:31:26Z",
             "owner": "clj-commons",
             "repo": "aleph",
             "stars": 2589
@@ -2016,7 +2016,7 @@
             "last_commit": "2026-08-04T15:21:55Z",
             "owner": "clj-kondo",
             "repo": "clj-kondo",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -2125,7 +2125,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-05-26T14:40:46Z",
+            "last_commit": "2026-08-18T00:40:41Z",
             "owner": "NoahTheDuke",
             "repo": "splint",
             "stars": 142
@@ -2305,7 +2305,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T09:51:23Z",
+            "last_commit": "2026-08-18T09:24:36Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
             "stars": 14245
@@ -2862,7 +2862,7 @@
             "last_commit": "2026-07-24T12:52:36Z",
             "owner": "Olical",
             "repo": "conjure",
-            "stars": 2132
+            "stars": 2133
           }
         },
         {
@@ -3763,7 +3763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:59:07.294Z",
+    "last_updated": "2026-08-18T09:50:00.346Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
     "enhanced_repository": "enhansome/enhansome-clojure",
