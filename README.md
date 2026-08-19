@@ -1,7 +1,7 @@
 # Awesome Clojure with stars
 
 * [Awesome products in Clojure](#awesome-products-in-clojure)
-  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,828 | 🐛 4,379 | 🌐 Clojure | 📅 2026-08-19
+  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,830 | 🐛 4,392 | 🌐 Clojure | 📅 2026-08-19
   * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,473 | 🐛 66 | 🌐 Clojure | 📅 2026-08-17
   * [Nightcode](https://github.com/oakes/Nightcode) ⚠️ Archived: An IDE for Clojure (archived)
   * [Liquid (Text Editor)](https://github.com/mogenslund/liquid) ⭐ 971 | 🐛 10 | 🌐 Clojure | 📅 2022-03-11
@@ -112,7 +112,7 @@
 * [meander](https://github.com/noprompt/meander) ⭐ 982 | 🐛 21 | 🌐 Clojure | 📅 2023-09-08: transparent data transformation (defined as pattern-matching)
 * [Durable Queue](https://github.com/Factual/durable-queue) ⭐ 407 | 🐛 5 | 🌐 Clojure | 📅 2026-07-30: queue persisted on disk
 * [Ordered](https://github.com/amalloy/ordered) ⭐ 266 | 🐛 9 | 🌐 Clojure | 📅 2025-03-20: ordered sets and maps
-* [Duratom](https://github.com/jimpil/duratom) ⭐ 231 | 🐛 1 | 🌐 Clojure | 📅 2023-12-09: persisted atoms
+* [Duratom](https://github.com/jimpil/duratom) ⭐ 232 | 🐛 1 | 🌐 Clojure | 📅 2023-12-09: persisted atoms
 * [Finger Tree](https://github.com/clojure/data.finger-tree) ⭐ 221 | 🐛 1 | 🌐 Clojure | 📅 2025-12-30: double-list, counted-double-list, counted-sorted-set
 * [Persistent AVL trees](https://github.com/clojure/data.avl) ⭐ 134 | 🐛 2 | 🌐 Clojure | 📅 2025-12-30: persistent sorted maps and sets with log-time rank queries
 * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure) ⭐ 49 | 🐛 1 | 🌐 Clojure | 📅 2020-05-27: whose values are only calculated when accessed
@@ -203,7 +203,7 @@
 *Databases and database client libraries*
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,781 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
-* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 707 | 🌐 Clojure | 📅 2026-08-18: bitemporal database for SQL, Datalog & graph queries
+* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 708 | 🌐 Clojure | 📅 2026-08-18: bitemporal database for SQL, Datalog & graph queries
 * [Datahike](https://github.com/replikativ/datahike) ⭐ 1,861 | 🐛 91 | 🌐 Clojure | 📅 2026-08-18
 * [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,469 | 🐛 30 | 🌐 Clojure | 📅 2026-08-19
 * [next.jdbc](https://github.com/seancorfield/next-jdbc) ⭐ 863 | 🐛 0 | 🌐 Clojure | 📅 2026-08-03
@@ -316,7 +316,7 @@
 *Libraries for validating data.*
 
 * [Prismatic's schema](https://github.com/plumatic/schema) ⭐ 2,462 | 🐛 28 | 🌐 Clojure | 📅 2026-08-09
-* [Malli](https://github.com/metosin/malli) ⭐ 1,755 | 🐛 144 | 🌐 Clojure | 📅 2026-08-17
+* [Malli](https://github.com/metosin/malli) ⭐ 1,756 | 🐛 144 | 🌐 Clojure | 📅 2026-08-17
 * [Orchestra](https://github.com/jeaye/orchestra) ⭐ 625 | 🐛 9 | 🌐 Clojure | 📅 2021-01-01
 * [Bouncer](https://github.com/leonardoborges/bouncer) ⭐ 361 | 🐛 10 | 🌐 Clojure | 📅 2021-07-12
 * [Guardrails](https://github.com/fulcrologic/guardrails) ⭐ 258 | 🐛 0 | 🌐 Clojure | 📅 2026-06-03
@@ -356,7 +356,7 @@
 ## WebSocket
 
 * [aleph](https://github.com/ztellman/aleph) ⭐ 2,589 | 🐛 49 | 🌐 Clojure | 📅 2026-08-18
-* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,788 | 🐛 3 | 🌐 Clojure | 📅 2026-08-06
+* [Sente](https://github.com/ptaoussanis/sente) ⭐ 1,789 | 🐛 3 | 🌐 Clojure | 📅 2026-08-06
 * [Chord](https://github.com/jarohen/chord) ⭐ 442 | 🐛 7 | 🌐 Clojure | 📅 2020-07-12
 
 ## Testing

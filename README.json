@@ -216,7 +216,7 @@
             "last_commit": "2023-12-09T21:08:44Z",
             "owner": "jimpil",
             "repo": "duratom",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -892,7 +892,7 @@
             "archived": false,
             "id": 270858421,
             "language": "Clojure",
-            "last_commit": "2026-08-19T09:41:56Z",
+            "last_commit": "2026-08-19T12:19:54Z",
             "owner": "datalevin",
             "repo": "datalevin",
             "stars": 1469
@@ -1660,7 +1660,7 @@
             "last_commit": "2026-08-17T12:59:41Z",
             "owner": "metosin",
             "repo": "malli",
-            "stars": 1755
+            "stars": 1756
           }
         },
         {
@@ -1999,7 +1999,7 @@
             "last_commit": "2026-08-06T11:24:30Z",
             "owner": "taoensso",
             "repo": "sente",
-            "stars": 1788
+            "stars": 1789
           }
         },
         {
@@ -2440,7 +2440,7 @@
             "archived": false,
             "id": 14734876,
             "language": "Java",
-            "last_commit": "2026-08-19T09:29:24Z",
+            "last_commit": "2026-08-19T12:11:29Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
             "stars": 14245
@@ -3990,8 +3990,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:50:35.706Z",
+    "last_updated": "2026-08-19T12:20:58.805Z",
     "original_repository": "razum2um/awesome-clojure",
+    "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
     "enhanced_repository": "enhansome/enhansome-clojure",
     "enhanced_repository_description": null,
