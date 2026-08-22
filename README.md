@@ -1,8 +1,8 @@
 # Awesome Clojure with stars
 
 * [Awesome products in Clojure](#awesome-products-in-clojure)
-  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,861 | 🐛 4,397 | 🌐 Clojure | 📅 2026-08-21
-  * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,477 | 🐛 66 | 🌐 Clojure | 📅 2026-08-17
+  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,877 | 🐛 4,393 | 🌐 Clojure | 📅 2026-08-22
+  * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,478 | 🐛 66 | 🌐 Clojure | 📅 2026-08-17
   * [Nightcode](https://github.com/oakes/Nightcode) ⚠️ Archived: An IDE for Clojure (archived)
   * [Liquid (Text Editor)](https://github.com/mogenslund/liquid) ⭐ 971 | 🐛 10 | 🌐 Clojure | 📅 2022-03-11
   * [Braid](https://github.com/braidchat/braid) ⭐ 936 | 🐛 39 | 🌐 Clojure | 📅 2026-01-22: a team-chat app with a novel UI that leads to better conversations
@@ -27,10 +27,10 @@
   * [CircleCI](https://circleci.com/)
 
 * [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
-  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,543 | 🐛 956 | 🌐 Clojure | 📅 2026-08-21: knowledge management and collaboration (open frontend)
+  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,554 | 🐛 961 | 🌐 Clojure | 📅 2026-08-22: knowledge management and collaboration (open frontend)
 
 * [Languages written with Clojure](#languages-written-with-clojure)
-  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,717 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
+  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,718 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
   * [jank](https://github.com/jeaye/jank) ⭐ 3,317 | 🐛 84 | 🌐 C++ | 📅 2026-08-20
   * [lux](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-20
   * [scheje](https://github.com/turbopape/scheje) ⭐ 149 | 🐛 6 | 🌐 Clojure | 📅 2016-10-04
@@ -123,9 +123,9 @@
 *Actually don't search rails/django here, but compose them by yourself*
 
 * [Compojure](https://github.com/weavejester/compojure) ⭐ 4,112 | 🐛 7 | 🌐 Clojure | 📅 2025-09-15
-* [Pedestal](https://github.com/pedestal/pedestal) ⭐ 2,777 | 🐛 15 | 🌐 Clojure | 📅 2026-07-02
+* [Pedestal](https://github.com/pedestal/pedestal) ⭐ 2,778 | 🐛 15 | 🌐 Clojure | 📅 2026-07-02
 * [Fulcro](https://github.com/fulcrologic/fulcro) ⭐ 1,611 | 🐛 2 | 🌐 Clojure | 📅 2026-07-15
-* [Reitit](https://github.com/metosin/reitit) ⭐ 1,580 | 🐛 83 | 🌐 Clojure | 📅 2026-08-07
+* [Reitit](https://github.com/metosin/reitit) ⭐ 1,580 | 🐛 82 | 🌐 Clojure | 📅 2026-08-21
 * [Duct](https://github.com/weavejester/duct) ⭐ 1,153 | 🐛 12 | 🌐 Clojure | 📅 2025-10-09
 * [Compojure-api](https://github.com/metosin/compojure-api) ⭐ 1,123 | 🐛 54 | 🌐 Clojure | 📅 2024-11-04
 * [yada](https://github.com/juxt/yada) ⭐ 733 | 🐛 115 | 🌐 HTML | 📅 2023-04-06
@@ -191,9 +191,9 @@
 
 *Libraries for working with HTTP.*
 
-* [ring](https://github.com/ring-clojure/ring) ⭐ 3,882 | 🐛 42 | 🌐 Clojure | 📅 2026-06-23 : HTTP server abstraction
+* [ring](https://github.com/ring-clojure/ring) ⭐ 3,883 | 🐛 42 | 🌐 Clojure | 📅 2026-06-23 : HTTP server abstraction
 * [aleph](https://github.com/clj-commons/aleph) ⭐ 2,590 | 🐛 49 | 🌐 Clojure | 📅 2026-08-18 : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
-* [http-kit](https://github.com/http-kit/http-kit) ⭐ 2,564 | 🐛 51 | 🌐 Java | 📅 2026-08-21 : Simple, high-performance event-driven HTTP client and server
+* [http-kit](https://github.com/http-kit/http-kit) ⭐ 2,565 | 🐛 51 | 🌐 Java | 📅 2026-08-21 : Simple, high-performance event-driven HTTP client and server
 * [clj-http](https://github.com/dakrone/clj-http) ⭐ 1,824 | 🐛 68 | 🌐 Clojure | 📅 2026-07-30 :  Apache HttpComponents client wrapper
 * [hato](https://github.com/gnarroway/hato) ⭐ 418 | 🐛 20 | 🌐 Clojure | 📅 2025-07-16 : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 * [kvlt](https://github.com/nervous-systems/kvlt) ⚠️ Archived : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
@@ -203,9 +203,9 @@
 *Databases and database client libraries*
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,781 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
-* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 707 | 🌐 Clojure | 📅 2026-08-21: bitemporal database for SQL, Datalog & graph queries
-* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,861 | 🐛 94 | 🌐 Clojure | 📅 2026-08-20
-* [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,469 | 🐛 30 | 🌐 Clojure | 📅 2026-08-20
+* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 709 | 🌐 Clojure | 📅 2026-08-22: bitemporal database for SQL, Datalog & graph queries
+* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,862 | 🐛 96 | 🌐 Clojure | 📅 2026-08-21
+* [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,470 | 🐛 30 | 🌐 Clojure | 📅 2026-08-22
 * [next.jdbc](https://github.com/seancorfield/next-jdbc) ⭐ 863 | 🐛 0 | 🌐 Clojure | 📅 2026-08-03
 * [clojure.java.jdbc](https://github.com/clojure/java.jdbc) ⭐ 734 | 🐛 1 | 🌐 Clojure | 📅 2026-01-02
 * [Spandex](https://github.com/mpenet/spandex) ⭐ 264 | 🐛 1 | 🌐 Clojure | 📅 2025-12-02: for ElasticSearch
@@ -285,7 +285,7 @@
 
 *Libraries for developing RESTful APIs.*
 
-* [reitit](https://github.com/metosin/reitit) ⭐ 1,580 | 🐛 83 | 🌐 Clojure | 📅 2026-08-07
+* [reitit](https://github.com/metosin/reitit) ⭐ 1,580 | 🐛 82 | 🌐 Clojure | 📅 2026-08-21
 * [Compojure-api](https://github.com/metosin/compojure-api) ⭐ 1,123 | 🐛 54 | 🌐 Clojure | 📅 2024-11-04
 * [yada](https://github.com/juxt/yada) ⭐ 733 | 🐛 115 | 🌐 HTML | 📅 2023-04-06
 * [Friboo](https://github.com/zalando/friboo) ⚠️ Archived
@@ -316,7 +316,7 @@
 *Libraries for validating data.*
 
 * [Prismatic's schema](https://github.com/plumatic/schema) ⭐ 2,462 | 🐛 28 | 🌐 Clojure | 📅 2026-08-09
-* [Malli](https://github.com/metosin/malli) ⭐ 1,759 | 🐛 145 | 🌐 Clojure | 📅 2026-08-17
+* [Malli](https://github.com/metosin/malli) ⭐ 1,759 | 🐛 141 | 🌐 Clojure | 📅 2026-08-21
 * [Orchestra](https://github.com/jeaye/orchestra) ⭐ 625 | 🐛 9 | 🌐 Clojure | 📅 2021-01-01
 * [Bouncer](https://github.com/leonardoborges/bouncer) ⭐ 361 | 🐛 10 | 🌐 Clojure | 📅 2021-07-12
 * [Guardrails](https://github.com/fulcrologic/guardrails) ⭐ 258 | 🐛 0 | 🌐 Clojure | 📅 2026-06-03
@@ -362,7 +362,7 @@
 ## Testing
 
 * [Midje](https://github.com/marick/Midje) ⭐ 1,696 | 🐛 43 | 🌐 Clojure | 📅 2024-01-04
-* [kaocha](https://github.com/lambdaisland/kaocha) ⭐ 858 | 🐛 47 | 🌐 Clojure | 📅 2025-10-09
+* [kaocha](https://github.com/lambdaisland/kaocha) ⭐ 859 | 🐛 47 | 🌐 Clojure | 📅 2025-10-09
 * [Expectations](https://github.com/clojure-expectations/expectations) ⭐ 398 | 🐛 0 | 🌐 Clojure | 📅 2023-04-11
 * [StateFlow](https://github.com/nubank/state-flow) ⭐ 389 | 🐛 8 | 🌐 Clojure | 📅 2026-04-23
 * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) ⭐ 36 | 🐛 1 | 🌐 Clojure | 📅 2021-09-29
@@ -370,7 +370,7 @@
 
 ## Webdriver automation
 
-* [Etaoin](https://github.com/igrishaev/etaoin) ⭐ 968 | 🐛 16 | 🌐 Clojure | 📅 2026-08-13
+* [Etaoin](https://github.com/igrishaev/etaoin) ⭐ 969 | 🐛 16 | 🌐 Clojure | 📅 2026-08-13
 
 ## Code Analysis and Linter
 
@@ -405,7 +405,7 @@ anylysis and visualization.*
 
 ## Machine Learning
 
-* [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) ⭐ 14,245 | 🐛 55 | 🌐 Java | 📅 2026-08-21
+* [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) ⭐ 14,245 | 🐛 55 | 🌐 Java | 📅 2026-08-22
 * [cortex](https://github.com/originrose/cortex) ⭐ 1,271 | 🐛 29 | 🌐 Clojure | 📅 2018-09-10
 * [neanderthal](https://github.com/uncomplicate/neanderthal) ⭐ 1,128 | 🐛 8 | 🌐 Clojure | 📅 2026-08-19: fast matrix library
 * [bayadera](https://github.com/uncomplicate/bayadera) ⭐ 371 | 🐛 4 | 🌐 Clojure | 📅 2020-09-10: bayesian data analysis on the GPU
@@ -462,14 +462,14 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-* [CIDER (Emacs)](https://github.com/clojure-emacs/cider) ⭐ 3,677 | 🐛 25 | 🌐 Emacs Lisp | 📅 2026-08-21
+* [CIDER (Emacs)](https://github.com/clojure-emacs/cider) ⭐ 3,677 | 🐛 26 | 🌐 Emacs Lisp | 📅 2026-08-21
 * [Conjure (Neovim)](https://github.com/Olical/conjure) ⭐ 2,133 | 🐛 90 | 🌐 Fennel | 📅 2026-07-24
 * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva) ⭐ 2,082 | 🐛 458 | 🌐 TypeScript | 📅 2026-08-05
-* [smartparens (Emacs)](https://github.com/Fuco1/smartparens) ⭐ 1,939 | 🐛 250 | 🌐 Emacs Lisp | 📅 2026-01-29
+* [smartparens (Emacs)](https://github.com/Fuco1/smartparens) ⭐ 1,940 | 🐛 250 | 🌐 Emacs Lisp | 📅 2026-01-29
 * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace) ⭐ 1,759 | 🐛 32 | 🌐 Vim Script | 📅 2024-11-01
 * [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp) ⭐ 1,321 | 🐛 214 | 🌐 Clojure | 📅 2026-08-20
 * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode) ⭐ 881 | 🐛 37 | 🌐 Emacs Lisp | 📅 2024-07-07
-* [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters) ⭐ 752 | 🐛 18 | 🌐 Emacs Lisp | 📅 2023-08-30
+* [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters) ⭐ 753 | 🐛 18 | 🌐 Emacs Lisp | 📅 2023-08-30
 * [vim-iced (Vim)](https://github.com/liquidz/vim-iced) ⚠️ Archived
 * [rainbow\_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim) ⭐ 386 | 🐛 10 | 🌐 VimL | 📅 2018-06-13
 * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode) ⭐ 207 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-05
@@ -512,9 +512,9 @@ anylysis and visualization.*
 
 ## Debugging
 
-* [figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,875 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26
+* [figwheel](https://github.com/bhauman/lein-figwheel) ⭐ 2,877 | 🐛 98 | 🌐 Clojure | 📅 2024-03-26
 * [ultra](https://github.com/venantius/ultra) ⭐ 1,236 | 🐛 8 | 🌐 Clojure | 📅 2023-02-16
-* [flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) ⭐ 859 | 🐛 23 | 🌐 Clojure | 📅 2026-08-14
+* [flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) ⭐ 859 | 🐛 23 | 🌐 Clojure | 📅 2026-08-21
 * [pretty](https://github.com/AvisoNovate/pretty) ⭐ 623 | 🐛 2 | 🌐 Clojure | 📅 2026-04-27
 * [scope-capture](https://github.com/vvvvalvalval/scope-capture) ⭐ 600 | 🐛 15 | 🌐 Clojure | 📅 2024-07-17
 * [spyscope](https://github.com/dgrnbrg/spyscope) ⭐ 584 | 🐛 10 | 🌐 Clojure | 📅 2019-12-25
@@ -606,4 +606,4 @@ anylysis and visualization.*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
