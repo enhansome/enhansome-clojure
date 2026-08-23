@@ -15,7 +15,7 @@
             "last_commit": "2026-06-12T14:30:05Z",
             "owner": "clojure",
             "repo": "core.async",
-            "stars": 2050
+            "stars": 2051
           }
         },
         {
@@ -766,7 +766,7 @@
             "archived": false,
             "id": 761350,
             "language": "Clojure",
-            "last_commit": "2026-08-18T08:31:26Z",
+            "last_commit": "2026-08-22T13:56:09Z",
             "owner": "clj-commons",
             "repo": "aleph",
             "stars": 2590
@@ -850,7 +850,7 @@
             "last_commit": "2026-08-15T16:29:25Z",
             "owner": "tonsky",
             "repo": "datascript",
-            "stars": 5781
+            "stars": 5782
           }
         },
         {
@@ -877,7 +877,7 @@
             "archived": false,
             "id": 116407410,
             "language": "Clojure",
-            "last_commit": "2026-08-21T18:15:53Z",
+            "last_commit": "2026-08-23T08:24:20Z",
             "owner": "replikativ",
             "repo": "datahike",
             "stars": 1862
@@ -892,7 +892,7 @@
             "archived": false,
             "id": 270858421,
             "language": "Clojure",
-            "last_commit": "2026-08-22T03:24:10Z",
+            "last_commit": "2026-08-23T04:37:03Z",
             "owner": "datalevin",
             "repo": "datalevin",
             "stars": 1470
@@ -1255,7 +1255,7 @@
             "last_commit": "2024-05-22T09:57:20Z",
             "owner": "AppsFlyer",
             "repo": "pronto",
-            "stars": 126
+            "stars": 127
           }
         },
         {
@@ -1288,7 +1288,7 @@
             "archived": false,
             "id": 5020045,
             "language": "Clojure",
-            "last_commit": "2026-08-18T18:56:49Z",
+            "last_commit": "2026-08-22T15:34:20Z",
             "owner": "seancorfield",
             "repo": "honeysql",
             "stars": 1918
@@ -1474,7 +1474,7 @@
             "archived": false,
             "id": 223576218,
             "language": "Clojure",
-            "last_commit": "2026-08-21T22:23:49Z",
+            "last_commit": "2026-08-23T07:43:09Z",
             "owner": "theronic",
             "repo": "eacl",
             "stars": 89
@@ -1867,7 +1867,7 @@
             "last_commit": "2026-06-12T14:30:05Z",
             "owner": "clojure",
             "repo": "core.async",
-            "stars": 2050
+            "stars": 2051
           }
         },
         {
@@ -1933,7 +1933,7 @@
             "last_commit": "2025-03-20T19:06:08Z",
             "owner": "funcool",
             "repo": "cats",
-            "stars": 969
+            "stars": 970
           }
         },
         {
@@ -1981,7 +1981,7 @@
             "archived": false,
             "id": 761350,
             "language": "Clojure",
-            "last_commit": "2026-08-18T08:31:26Z",
+            "last_commit": "2026-08-22T13:56:09Z",
             "owner": "clj-commons",
             "repo": "aleph",
             "stars": 2590
@@ -2440,7 +2440,7 @@
             "archived": false,
             "id": 14734876,
             "language": "Java",
-            "last_commit": "2026-08-22T09:18:44Z",
+            "last_commit": "2026-08-23T02:17:29Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
             "stars": 14245
@@ -3016,7 +3016,7 @@
             "archived": false,
             "id": 4118920,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-21T14:44:52Z",
+            "last_commit": "2026-08-22T15:20:44Z",
             "owner": "clojure-emacs",
             "repo": "cider",
             "stars": 3677
@@ -3046,7 +3046,7 @@
             "archived": false,
             "id": 125431277,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T19:31:03Z",
+            "last_commit": "2026-08-22T21:13:40Z",
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2082
@@ -3064,7 +3064,7 @@
             "last_commit": "2026-01-29T12:14:19Z",
             "owner": "Fuco1",
             "repo": "smartparens",
-            "stars": 1940
+            "stars": 1941
           }
         },
         {
@@ -3990,7 +3990,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:43:50.343Z",
+    "last_updated": "2026-08-23T09:44:24.707Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
