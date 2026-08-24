@@ -1,7 +1,7 @@
 # Awesome Clojure with stars
 
 * [Awesome products in Clojure](#awesome-products-in-clojure)
-  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,902 | 🐛 4,391 | 🌐 Clojure | 📅 2026-08-24
+  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,904 | 🐛 4,400 | 🌐 Clojure | 📅 2026-08-24
   * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,480 | 🐛 66 | 🌐 Clojure | 📅 2026-08-17
   * [Nightcode](https://github.com/oakes/Nightcode) ⚠️ Archived: An IDE for Clojure (archived)
   * [Liquid (Text Editor)](https://github.com/mogenslund/liquid) ⭐ 971 | 🐛 10 | 🌐 Clojure | 📅 2022-03-11
@@ -27,10 +27,10 @@
   * [CircleCI](https://circleci.com/)
 
 * [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
-  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,583 | 🐛 957 | 🌐 Clojure | 📅 2026-08-24: knowledge management and collaboration (open frontend)
+  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,590 | 🐛 957 | 🌐 Clojure | 📅 2026-08-24: knowledge management and collaboration (open frontend)
 
 * [Languages written with Clojure](#languages-written-with-clojure)
-  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,720 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
+  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,719 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
   * [jank](https://github.com/jeaye/jank) ⭐ 3,317 | 🐛 84 | 🌐 C++ | 📅 2026-08-22
   * [lux](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-20
   * [scheje](https://github.com/turbopape/scheje) ⭐ 149 | 🐛 6 | 🌐 Clojure | 📅 2016-10-04
@@ -204,7 +204,7 @@
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,783 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
 * [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 712 | 🌐 Clojure | 📅 2026-08-24: bitemporal database for SQL, Datalog & graph queries
-* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,862 | 🐛 94 | 🌐 Clojure | 📅 2026-08-24
+* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,863 | 🐛 94 | 🌐 Clojure | 📅 2026-08-24
 * [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,470 | 🐛 30 | 🌐 Clojure | 📅 2026-08-24
 * [next.jdbc](https://github.com/seancorfield/next-jdbc) ⭐ 863 | 🐛 0 | 🌐 Clojure | 📅 2026-08-03
 * [clojure.java.jdbc](https://github.com/clojure/java.jdbc) ⭐ 734 | 🐛 1 | 🌐 Clojure | 📅 2026-01-02
@@ -467,7 +467,7 @@ anylysis and visualization.*
 * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva) ⭐ 2,082 | 🐛 460 | 🌐 TypeScript | 📅 2026-08-24
 * [smartparens (Emacs)](https://github.com/Fuco1/smartparens) ⭐ 1,941 | 🐛 250 | 🌐 Emacs Lisp | 📅 2026-01-29
 * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace) ⭐ 1,759 | 🐛 32 | 🌐 Vim Script | 📅 2024-11-01
-* [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp) ⭐ 1,321 | 🐛 214 | 🌐 Clojure | 📅 2026-08-20
+* [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp) ⭐ 1,322 | 🐛 214 | 🌐 Clojure | 📅 2026-08-20
 * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode) ⭐ 881 | 🐛 37 | 🌐 Emacs Lisp | 📅 2024-07-07
 * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters) ⭐ 753 | 🐛 18 | 🌐 Emacs Lisp | 📅 2023-08-30
 * [vim-iced (Vim)](https://github.com/liquidz/vim-iced) ⚠️ Archived

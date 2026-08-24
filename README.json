@@ -1,6 +1,393 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Awesome products in Clojure",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Metabase",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30203935,
+                "language": "Clojure",
+                "last_commit": "2026-08-24T14:02:38Z",
+                "owner": "metabase",
+                "repo": "metabase",
+                "stars": 48904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jepsen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9433979,
+                "language": "Clojure",
+                "last_commit": "2026-08-17T14:12:07Z",
+                "owner": "jepsen-io",
+                "repo": "jepsen",
+                "stars": 7480
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nightcode",
+              "description": "An IDE for Clojure (archived)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10517878,
+                "language": "Clojure",
+                "last_commit": "2021-04-24T06:40:22Z",
+                "owner": "oakes",
+                "repo": "Nightcode",
+                "stars": 1402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Liquid (Text Editor)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72887238,
+                "language": "Clojure",
+                "last_commit": "2022-03-11T19:04:25Z",
+                "owner": "mogenslund",
+                "repo": "liquid",
+                "stars": 971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Braid",
+              "description": "a team-chat app with a novel UI that leads to better conversations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49294621,
+                "language": "Clojure",
+                "last_commit": "2026-01-22T16:11:53Z",
+                "owner": "braidchat",
+                "repo": "braid",
+                "stars": 936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clojupyter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19602479,
+                "language": "Clojure",
+                "last_commit": "2025-03-18T08:36:00Z",
+                "owner": "clojupyter",
+                "repo": "clojupyter",
+                "stars": 867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Accelerated Text",
+              "description": "a natural language generation environment (backend: Clojure, frontend: JS)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210517337,
+                "language": "JavaScript",
+                "last_commit": "2023-03-10T11:07:11Z",
+                "owner": "accelerated-text",
+                "repo": "accelerated-text",
+                "stars": 807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nightlight",
+              "description": "text editor (archived)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 69418487,
+                "language": "Clojure",
+                "last_commit": "2019-12-26T00:11:40Z",
+                "owner": "oakes",
+                "repo": "Nightlight",
+                "stars": 784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Atea",
+              "description": "a minimalistic menu bar time tracker for MacOS (legacy, requires jvm 1.6)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3460931,
+                "language": "Clojure",
+                "last_commit": "2012-03-03T02:31:59Z",
+                "owner": "pkamenarsky",
+                "repo": "atea",
+                "stars": 617
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneKeePass",
+              "description": "A secure password manager and mobile app in ClojureScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 637955558,
+                "language": "Clojure",
+                "last_commit": "2026-08-06T23:54:57Z",
+                "owner": "OneKeePass",
+                "repo": "desktop",
+                "stars": 488
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ziggurat",
+              "description": "a framework built to simplify Stream processing on Kafka",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163260126,
+                "language": "Clojure",
+                "last_commit": "2026-07-27T11:30:28Z",
+                "owner": "gojek",
+                "repo": "ziggurat",
+                "stars": 406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PuppetDB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2193032,
+                "language": "Clojure",
+                "last_commit": "2025-07-22T16:28:59Z",
+                "owner": "puppetlabs",
+                "repo": "puppetdb",
+                "stars": 306
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Puppet Server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19546488,
+                "language": "Clojure",
+                "last_commit": "2025-09-19T17:06:08Z",
+                "owner": "puppetlabs",
+                "repo": "puppetserver",
+                "stars": 298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "racing-game-cljs",
+              "description": "A 3D racing game built with ClojureScript, React and ThreeJS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377189137,
+                "language": "Clojure",
+                "last_commit": "2021-06-24T07:52:20Z",
+                "owner": "ertugrulcetin",
+                "repo": "racing-game-cljs",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Avi (vim rewrite)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17114696,
+                "language": "Clojure",
+                "last_commit": "2018-01-26T16:15:33Z",
+                "owner": "maitria",
+                "repo": "avi",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "herfi",
+              "description": "3D multiplayer game prototype written in Clojure and ClojureScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471753675,
+                "language": "Clojure",
+                "last_commit": "2022-04-19T17:29:28Z",
+                "owner": "ertugrulcetin",
+                "repo": "herfi",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Metabase Datomic",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 177175873,
+                "language": "Clojure",
+                "last_commit": "2020-10-01T14:09:58Z",
+                "owner": "lambdaisland",
+                "repo": "metabase-datomic",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meins",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 647963631,
+                "language": "Clojure",
+                "last_commit": "2024-04-06T10:26:01Z",
+                "owner": "matthiasn",
+                "repo": "meins",
+                "stars": 22
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Awesome SaaS (partially OSS) in Clojure",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Logseq",
+              "description": "knowledge management and collaboration (open frontend)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266231149,
+                "language": "Clojure",
+                "last_commit": "2026-08-24T07:14:54Z",
+                "owner": "logseq",
+                "repo": "logseq",
+                "stars": 44590
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Languages written with Clojure",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18079664,
+                "language": "Assembly",
+                "last_commit": "2025-10-22T16:42:57Z",
+                "owner": "kanaka",
+                "repo": "mal",
+                "stars": 10719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jank",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21428070,
+                "language": "C++",
+                "last_commit": "2026-08-22T21:04:41Z",
+                "owner": "jank-lang",
+                "repo": "jank",
+                "stars": 3317
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35055585,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-20T05:03:04Z",
+                "owner": "LuxLang",
+                "repo": "lux",
+                "stars": 1740
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scheje",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47837601,
+                "language": "Clojure",
+                "last_commit": "2016-10-04T09:33:02Z",
+                "owner": "turbopape",
+                "repo": "scheje",
+                "stars": 149
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eden",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139753156,
+                "language": "Clojure",
+                "last_commit": "2020-02-28T16:58:27Z",
+                "owner": "benzap",
+                "repo": "eden",
+                "stars": 142
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Overview"
+    },
+    {
       "description": "Answers why the lisp shines, killer features in action",
       "items": [
         {
@@ -862,7 +1249,7 @@
             "archived": false,
             "id": 125824259,
             "language": "Clojure",
-            "last_commit": "2026-08-24T09:20:19Z",
+            "last_commit": "2026-08-24T12:44:04Z",
             "owner": "xtdb",
             "repo": "xtdb",
             "stars": 3044
@@ -877,10 +1264,10 @@
             "archived": false,
             "id": 116407410,
             "language": "Clojure",
-            "last_commit": "2026-08-24T09:54:37Z",
+            "last_commit": "2026-08-24T11:26:37Z",
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1862
+            "stars": 1863
           }
         },
         {
@@ -2440,7 +2827,7 @@
             "archived": false,
             "id": 14734876,
             "language": "Java",
-            "last_commit": "2026-08-24T02:38:23Z",
+            "last_commit": "2026-08-24T12:31:22Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
             "stars": 14244
@@ -3046,7 +3433,7 @@
             "archived": false,
             "id": 125431277,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:20:12Z",
+            "last_commit": "2026-08-24T13:51:26Z",
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2082
@@ -3094,7 +3481,7 @@
             "last_commit": "2026-08-20T19:41:51Z",
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
-            "stars": 1321
+            "stars": 1322
           }
         },
         {
@@ -3693,6 +4080,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "lambdacd",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 24018946,
+            "language": "Clojure",
+            "last_commit": "2023-01-27T10:32:48Z",
+            "owner": "flosell",
+            "repo": "lambdacd",
+            "stars": 672
+          }
+        }
+      ],
+      "title": "CI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "milestones",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25077534,
+            "language": "Clojure",
+            "last_commit": "2021-12-12T20:29:44Z",
+            "owner": "turbopape",
+            "repo": "milestones",
+            "stars": 120
+          }
+        }
+      ],
+      "title": "Project Management"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "closh",
           "description": null,
           "children": [],
@@ -3990,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:05:21.943Z",
+    "last_updated": "2026-08-24T14:05:40.095Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
