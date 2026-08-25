@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T14:02:38Z",
+                "last_commit": "2026-08-25T05:56:22Z",
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48904
+                "stars": 48911
               }
             },
             {
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 488
+                "stars": 489
               }
             },
             {
@@ -294,10 +294,10 @@
                 "archived": false,
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T07:14:54Z",
+                "last_commit": "2026-08-24T14:41:43Z",
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44590
+                "stars": 44607
               }
             }
           ]
@@ -319,7 +319,7 @@
                 "last_commit": "2025-10-22T16:42:57Z",
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10719
+                "stars": 10721
               }
             },
             {
@@ -331,7 +331,7 @@
                 "archived": false,
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-22T21:04:41Z",
+                "last_commit": "2026-08-24T23:33:25Z",
                 "owner": "jank-lang",
                 "repo": "jank",
                 "stars": 3317
@@ -349,7 +349,7 @@
                 "last_commit": "2026-08-20T05:03:04Z",
                 "owner": "LuxLang",
                 "repo": "lux",
-                "stars": 1740
+                "stars": 1741
               }
             },
             {
@@ -699,7 +699,7 @@
             "last_commit": "2026-07-02T15:23:28Z",
             "owner": "pedestal",
             "repo": "pedestal",
-            "stars": 2778
+            "stars": 2779
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2024-11-04T20:35:42Z",
             "owner": "metosin",
             "repo": "compojure-api",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -1141,7 +1141,7 @@
             "last_commit": "2026-06-23T11:46:28Z",
             "owner": "ring-clojure",
             "repo": "ring",
-            "stars": 3883
+            "stars": 3884
           }
         },
         {
@@ -1249,10 +1249,10 @@
             "archived": false,
             "id": 125824259,
             "language": "Clojure",
-            "last_commit": "2026-08-24T12:44:04Z",
+            "last_commit": "2026-08-24T17:25:19Z",
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3044
+            "stars": 3045
           }
         },
         {
@@ -1264,10 +1264,10 @@
             "archived": false,
             "id": 116407410,
             "language": "Clojure",
-            "last_commit": "2026-08-24T11:26:37Z",
+            "last_commit": "2026-08-25T05:30:45Z",
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1863
+            "stars": 1864
           }
         },
         {
@@ -1279,7 +1279,7 @@
             "archived": false,
             "id": 270858421,
             "language": "Clojure",
-            "last_commit": "2026-08-24T04:33:37Z",
+            "last_commit": "2026-08-25T04:49:13Z",
             "owner": "datalevin",
             "repo": "datalevin",
             "stars": 1470
@@ -1900,7 +1900,7 @@
             "last_commit": "2024-11-04T20:35:42Z",
             "owner": "metosin",
             "repo": "compojure-api",
-            "stars": 1123
+            "stars": 1124
           }
         },
         {
@@ -1993,7 +1993,7 @@
             "archived": false,
             "id": 11588994,
             "language": "Clojure",
-            "last_commit": "2026-08-20T16:36:54Z",
+            "last_commit": "2026-08-24T15:05:54Z",
             "owner": "yogthos",
             "repo": "Selmer",
             "stars": 1042
@@ -2827,7 +2827,7 @@
             "archived": false,
             "id": 14734876,
             "language": "Java",
-            "last_commit": "2026-08-24T12:31:22Z",
+            "last_commit": "2026-08-25T01:22:59Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
             "stars": 14244
@@ -3403,7 +3403,7 @@
             "archived": false,
             "id": 4118920,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-24T07:09:06Z",
+            "last_commit": "2026-08-25T04:59:59Z",
             "owner": "clojure-emacs",
             "repo": "cider",
             "stars": 3677
@@ -3421,7 +3421,7 @@
             "last_commit": "2026-07-24T12:52:36Z",
             "owner": "Olical",
             "repo": "conjure",
-            "stars": 2133
+            "stars": 2134
           }
         },
         {
@@ -3433,7 +3433,7 @@
             "archived": false,
             "id": 125431277,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:51:26Z",
+            "last_commit": "2026-08-25T05:09:02Z",
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2082
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:40.095Z",
+    "last_updated": "2026-08-25T05:56:54.771Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
