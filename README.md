@@ -1,7 +1,7 @@
 # Awesome Clojure with stars
 
 * [Awesome products in Clojure](#awesome-products-in-clojure)
-  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,911 | 🐛 4,440 | 🌐 Clojure | 📅 2026-08-25
+  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,915 | 🐛 4,436 | 🌐 Clojure | 📅 2026-08-25
   * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,480 | 🐛 66 | 🌐 Clojure | 📅 2026-08-17
   * [Nightcode](https://github.com/oakes/Nightcode) ⚠️ Archived: An IDE for Clojure (archived)
   * [Liquid (Text Editor)](https://github.com/mogenslund/liquid) ⭐ 971 | 🐛 10 | 🌐 Clojure | 📅 2022-03-11
@@ -27,11 +27,11 @@
   * [CircleCI](https://circleci.com/)
 
 * [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
-  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,607 | 🐛 958 | 🌐 Clojure | 📅 2026-08-24: knowledge management and collaboration (open frontend)
+  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,612 | 🐛 959 | 🌐 Clojure | 📅 2026-08-24: knowledge management and collaboration (open frontend)
 
 * [Languages written with Clojure](#languages-written-with-clojure)
   * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,721 | 🐛 47 | 🌐 Assembly | 📅 2025-10-22
-  * [jank](https://github.com/jeaye/jank) ⭐ 3,317 | 🐛 84 | 🌐 C++ | 📅 2026-08-24
+  * [jank](https://github.com/jeaye/jank) ⭐ 3,316 | 🐛 84 | 🌐 C++ | 📅 2026-08-24
   * [lux](https://github.com/LuxLang/lux) ⭐ 1,741 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-20
   * [scheje](https://github.com/turbopape/scheje) ⭐ 149 | 🐛 6 | 🌐 Clojure | 📅 2016-10-04
   * [eden](https://github.com/benzap/eden) ⭐ 142 | 🐛 1 | 🌐 Clojure | 📅 2020-02-28
@@ -154,7 +154,7 @@
 *Libraries for project build automation and package/dependency management.*
 
 * [Leiningen](https://github.com/technomancy/leiningen) ⭐ 7,296 | 🐛 94 | 🌐 Clojure | 📅 2026-06-08
-* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,405 | 🐛 43 | 🌐 Clojure | 📅 2026-08-10 (Clojurescript)
+* [shadow-cljs](https://github.com/thheller/shadow-cljs) ⭐ 2,405 | 🐛 43 | 🌐 Clojure | 📅 2026-08-25 (Clojurescript)
 * [Boot](https://github.com/boot-clj/boot) ⭐ 1,749 | 🐛 111 | 🌐 Clojure | 📅 2021-04-22
 * [clojurephant](https://github.com/clojurephant/clojurephant) ⚠️ Archived (Gradle plugin)
 * [tools.build](https://www.clojure.org/guides/tools_build)
@@ -191,7 +191,7 @@
 
 *Libraries for working with HTTP.*
 
-* [ring](https://github.com/ring-clojure/ring) ⭐ 3,884 | 🐛 41 | 🌐 Clojure | 📅 2026-06-23 : HTTP server abstraction
+* [ring](https://github.com/ring-clojure/ring) ⭐ 3,885 | 🐛 41 | 🌐 Clojure | 📅 2026-06-23 : HTTP server abstraction
 * [aleph](https://github.com/clj-commons/aleph) ⭐ 2,590 | 🐛 48 | 🌐 Clojure | 📅 2026-08-24 : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
 * [http-kit](https://github.com/http-kit/http-kit) ⭐ 2,565 | 🐛 51 | 🌐 Java | 📅 2026-08-21 : Simple, high-performance event-driven HTTP client and server
 * [clj-http](https://github.com/dakrone/clj-http) ⭐ 1,824 | 🐛 68 | 🌐 Clojure | 📅 2026-07-30 :  Apache HttpComponents client wrapper
@@ -202,8 +202,8 @@
 
 *Databases and database client libraries*
 
-* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,783 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
-* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,045 | 🐛 714 | 🌐 Clojure | 📅 2026-08-24: bitemporal database for SQL, Datalog & graph queries
+* [Datascript](https://github.com/tonsky/datascript) ⭐ 5,784 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
+* [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,046 | 🐛 714 | 🌐 Clojure | 📅 2026-08-24: bitemporal database for SQL, Datalog & graph queries
 * [Datahike](https://github.com/replikativ/datahike) ⭐ 1,864 | 🐛 94 | 🌐 Clojure | 📅 2026-08-25
 * [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,470 | 🐛 30 | 🌐 Clojure | 📅 2026-08-25
 * [next.jdbc](https://github.com/seancorfield/next-jdbc) ⭐ 863 | 🐛 0 | 🌐 Clojure | 📅 2026-08-03
@@ -464,7 +464,7 @@ anylysis and visualization.*
 
 * [CIDER (Emacs)](https://github.com/clojure-emacs/cider) ⭐ 3,677 | 🐛 26 | 🌐 Emacs Lisp | 📅 2026-08-25
 * [Conjure (Neovim)](https://github.com/Olical/conjure) ⭐ 2,134 | 🐛 92 | 🌐 Fennel | 📅 2026-07-24
-* [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva) ⭐ 2,082 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-25
+* [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva) ⭐ 2,082 | 🐛 453 | 🌐 TypeScript | 📅 2026-08-25
 * [smartparens (Emacs)](https://github.com/Fuco1/smartparens) ⭐ 1,941 | 🐛 250 | 🌐 Emacs Lisp | 📅 2026-01-29
 * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace) ⭐ 1,759 | 🐛 32 | 🌐 Vim Script | 📅 2024-11-01
 * [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp) ⭐ 1,322 | 🐛 214 | 🌐 Clojure | 📅 2026-08-20

@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-25T05:56:22Z",
+                "last_commit": "2026-08-25T09:52:08Z",
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48911
+                "stars": 48915
               }
             },
             {
@@ -297,7 +297,7 @@
                 "last_commit": "2026-08-24T14:41:43Z",
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44607
+                "stars": 44612
               }
             }
           ]
@@ -334,7 +334,7 @@
                 "last_commit": "2026-08-24T23:33:25Z",
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3317
+                "stars": 3316
               }
             },
             {
@@ -933,7 +933,7 @@
             "archived": false,
             "id": 43973779,
             "language": "Clojure",
-            "last_commit": "2026-08-10T17:44:03Z",
+            "last_commit": "2026-08-25T09:13:29Z",
             "owner": "thheller",
             "repo": "shadow-cljs",
             "stars": 2405
@@ -1141,7 +1141,7 @@
             "last_commit": "2026-06-23T11:46:28Z",
             "owner": "ring-clojure",
             "repo": "ring",
-            "stars": 3884
+            "stars": 3885
           }
         },
         {
@@ -1237,7 +1237,7 @@
             "last_commit": "2026-08-15T16:29:25Z",
             "owner": "tonsky",
             "repo": "datascript",
-            "stars": 5783
+            "stars": 5784
           }
         },
         {
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-24T17:25:19Z",
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3045
+            "stars": 3046
           }
         },
         {
@@ -3433,7 +3433,7 @@
             "archived": false,
             "id": 125431277,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:09:02Z",
+            "last_commit": "2026-08-25T09:31:52Z",
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2082
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:54.771Z",
+    "last_updated": "2026-08-25T09:52:29.884Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
