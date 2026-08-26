@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-25T09:52:08Z",
+                "last_commit": "2026-08-26T09:43:41Z",
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48915
+                "stars": 48940
               }
             },
             {
@@ -35,7 +35,7 @@
                 "last_commit": "2026-08-17T14:12:07Z",
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7480
+                "stars": 7481
               }
             },
             {
@@ -294,10 +294,10 @@
                 "archived": false,
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-24T14:41:43Z",
+                "last_commit": "2026-08-26T09:51:32Z",
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44612
+                "stars": 44637
               }
             }
           ]
@@ -331,10 +331,10 @@
                 "archived": false,
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:33:25Z",
+                "last_commit": "2026-08-26T01:55:13Z",
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3316
+                "stars": 3317
               }
             },
             {
@@ -346,7 +346,7 @@
                 "archived": false,
                 "id": 35055585,
                 "language": "Emacs Lisp",
-                "last_commit": "2026-08-20T05:03:04Z",
+                "last_commit": "2026-08-26T05:38:52Z",
                 "owner": "LuxLang",
                 "repo": "lux",
                 "stars": 1741
@@ -729,7 +729,7 @@
             "last_commit": "2026-08-24T05:33:34Z",
             "owner": "metosin",
             "repo": "reitit",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -933,7 +933,7 @@
             "archived": false,
             "id": 43973779,
             "language": "Clojure",
-            "last_commit": "2026-08-25T09:13:29Z",
+            "last_commit": "2026-08-26T09:06:02Z",
             "owner": "thheller",
             "repo": "shadow-cljs",
             "stars": 2405
@@ -1252,7 +1252,7 @@
             "last_commit": "2026-08-24T17:25:19Z",
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3046
+            "stars": 3045
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "archived": false,
             "id": 116407410,
             "language": "Clojure",
-            "last_commit": "2026-08-25T05:30:45Z",
+            "last_commit": "2026-08-26T08:25:02Z",
             "owner": "replikativ",
             "repo": "datahike",
             "stars": 1864
@@ -1279,10 +1279,10 @@
             "archived": false,
             "id": 270858421,
             "language": "Clojure",
-            "last_commit": "2026-08-25T04:49:13Z",
+            "last_commit": "2026-08-25T21:32:32Z",
             "owner": "datalevin",
             "repo": "datalevin",
-            "stars": 1470
+            "stars": 1471
           }
         },
         {
@@ -1549,7 +1549,7 @@
             "last_commit": "2023-05-10T09:21:46Z",
             "owner": "macourtney",
             "repo": "drift",
-            "stars": 122
+            "stars": 123
           }
         }
       ],
@@ -1885,7 +1885,7 @@
             "last_commit": "2026-08-24T05:33:34Z",
             "owner": "metosin",
             "repo": "reitit",
-            "stars": 1580
+            "stars": 1581
           }
         },
         {
@@ -1966,7 +1966,7 @@
             "last_commit": "2025-06-19T14:59:18Z",
             "owner": "weavejester",
             "repo": "hiccup",
-            "stars": 2853
+            "stars": 2854
           }
         },
         {
@@ -2047,7 +2047,7 @@
             "last_commit": "2026-08-21T11:41:22Z",
             "owner": "metosin",
             "repo": "malli",
-            "stars": 1759
+            "stars": 1760
           }
         },
         {
@@ -3541,7 +3541,7 @@
             "last_commit": "2018-06-13T00:43:37Z",
             "owner": "junegunn",
             "repo": "rainbow_parentheses.vim",
-            "stars": 386
+            "stars": 385
           }
         },
         {
@@ -3859,7 +3859,7 @@
             "last_commit": "2026-08-21T12:33:55Z",
             "owner": "flow-storm",
             "repo": "flow-storm-debugger",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -4419,7 +4419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:52:29.884Z",
+    "last_updated": "2026-08-26T09:58:52.563Z",
     "original_repository": "razum2um/awesome-clojure",
     "original_repository_id": 21657624,
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
