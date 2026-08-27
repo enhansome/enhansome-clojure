@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 30203935,
                 "language": "Clojure",
-                "last_commit": "2026-08-26T09:43:41Z",
+                "last_commit": "2026-08-27T11:20:49Z",
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 48940
+                "stars": 48960
               }
             },
             {
@@ -32,7 +32,7 @@
                 "archived": false,
                 "id": 9433979,
                 "language": "Clojure",
-                "last_commit": "2026-08-17T14:12:07Z",
+                "last_commit": "2026-08-26T15:45:01Z",
                 "owner": "jepsen-io",
                 "repo": "jepsen",
                 "stars": 7481
@@ -155,7 +155,7 @@
                 "last_commit": "2026-08-06T23:54:57Z",
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 489
+                "stars": 490
               }
             },
             {
@@ -294,10 +294,10 @@
                 "archived": false,
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-26T09:51:32Z",
+                "last_commit": "2026-08-26T16:32:21Z",
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44637
+                "stars": 44651
               }
             }
           ]
@@ -331,10 +331,10 @@
                 "archived": false,
                 "id": 21428070,
                 "language": "C++",
-                "last_commit": "2026-08-26T01:55:13Z",
+                "last_commit": "2026-08-27T02:33:51Z",
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3317
+                "stars": 3319
               }
             },
             {
@@ -1141,7 +1141,7 @@
             "last_commit": "2026-06-23T11:46:28Z",
             "owner": "ring-clojure",
             "repo": "ring",
-            "stars": 3885
+            "stars": 3884
           }
         },
         {
@@ -1249,7 +1249,7 @@
             "archived": false,
             "id": 125824259,
             "language": "Clojure",
-            "last_commit": "2026-08-24T17:25:19Z",
+            "last_commit": "2026-08-26T17:31:07Z",
             "owner": "xtdb",
             "repo": "xtdb",
             "stars": 3045
@@ -1264,7 +1264,7 @@
             "archived": false,
             "id": 116407410,
             "language": "Clojure",
-            "last_commit": "2026-08-26T08:25:02Z",
+            "last_commit": "2026-08-27T10:57:49Z",
             "owner": "replikativ",
             "repo": "datahike",
             "stars": 1864
@@ -1279,7 +1279,7 @@
             "archived": false,
             "id": 270858421,
             "language": "Clojure",
-            "last_commit": "2026-08-25T21:32:32Z",
+            "last_commit": "2026-08-27T04:15:02Z",
             "owner": "datalevin",
             "repo": "datalevin",
             "stars": 1471
@@ -1678,7 +1678,7 @@
             "last_commit": "2026-08-23T16:02:13Z",
             "owner": "seancorfield",
             "repo": "honeysql",
-            "stars": 1918
+            "stars": 1919
           }
         },
         {
@@ -1861,7 +1861,7 @@
             "archived": false,
             "id": 223576218,
             "language": "Clojure",
-            "last_commit": "2026-08-24T03:23:15Z",
+            "last_commit": "2026-08-26T20:00:13Z",
             "owner": "theronic",
             "repo": "eacl",
             "stars": 89
@@ -2827,10 +2827,10 @@
             "archived": false,
             "id": 14734876,
             "language": "Java",
-            "last_commit": "2026-08-25T01:22:59Z",
+            "last_commit": "2026-08-27T10:36:06Z",
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
-            "stars": 14244
+            "stars": 14246
           }
         },
         {
@@ -3403,7 +3403,7 @@
             "archived": false,
             "id": 4118920,
             "language": "Emacs Lisp",
-            "last_commit": "2026-08-25T04:59:59Z",
+            "last_commit": "2026-08-26T13:52:39Z",
             "owner": "clojure-emacs",
             "repo": "cider",
             "stars": 3677
@@ -3421,7 +3421,7 @@
             "last_commit": "2026-07-24T12:52:36Z",
             "owner": "Olical",
             "repo": "conjure",
-            "stars": 2134
+            "stars": 2136
           }
         },
         {
@@ -3433,7 +3433,7 @@
             "archived": false,
             "id": 125431277,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T09:31:52Z",
+            "last_commit": "2026-08-27T06:41:20Z",
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2082
@@ -4419,9 +4419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:58:52.563Z",
-    "original_repository": "razum2um/awesome-clojure",
-    "original_repository_id": 21657624,
+    "last_updated": "2026-08-27T11:28:55.452Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 21657624,
+      "language": "Clojure",
+      "last_commit": "2026-08-06T21:10:02Z",
+      "owner": "razum2um",
+      "repo": "awesome-clojure",
+      "stars": 2841
+    },
     "original_repository_sha": "828016667600a9f7a16907289fc4952426149a3e",
     "enhanced_repository": "enhansome/enhansome-clojure",
     "enhanced_repository_description": null,
