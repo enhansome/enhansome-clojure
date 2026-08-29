@@ -1,7 +1,7 @@
 # Awesome Clojure with stars
 
 * [Awesome products in Clojure](#awesome-products-in-clojure)
-  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,981 | 🐛 4,456 | 🌐 Clojure | 📅 2026-08-29
+  * [Metabase](https://github.com/metabase/metabase) ⭐ 48,986 | 🐛 4,456 | 🌐 Clojure | 📅 2026-08-29
   * [Jepsen](https://github.com/jepsen-io/jepsen) ⭐ 7,480 | 🐛 66 | 🌐 Clojure | 📅 2026-08-28
   * [Nightcode](https://github.com/oakes/Nightcode) ⚠️ Archived: An IDE for Clojure (archived)
   * [Liquid (Text Editor)](https://github.com/mogenslund/liquid) ⭐ 971 | 🐛 10 | 🌐 Clojure | 📅 2022-03-11
@@ -27,11 +27,11 @@
   * [CircleCI](https://circleci.com/)
 
 * [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
-  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,672 | 🐛 963 | 🌐 Clojure | 📅 2026-08-28: knowledge management and collaboration (open frontend)
+  * [Logseq](https://github.com/logseq/logseq) ⭐ 44,674 | 🐛 963 | 🌐 Clojure | 📅 2026-08-28: knowledge management and collaboration (open frontend)
 
 * [Languages written with Clojure](#languages-written-with-clojure)
-  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,723 | 🐛 53 | 🌐 Assembly | 📅 2025-10-22
-  * [jank](https://github.com/jeaye/jank) ⭐ 3,320 | 🐛 68 | 🌐 C++ | 📅 2026-08-28
+  * [mal](https://github.com/kanaka/mal/tree/master/impls/clojure) ⭐ 10,724 | 🐛 53 | 🌐 Assembly | 📅 2025-10-22
+  * [jank](https://github.com/jeaye/jank) ⭐ 3,320 | 🐛 70 | 🌐 C++ | 📅 2026-08-28
   * [lux](https://github.com/LuxLang/lux) ⭐ 1,740 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-08-26
   * [scheje](https://github.com/turbopape/scheje) ⭐ 149 | 🐛 6 | 🌐 Clojure | 📅 2016-10-04
   * [eden](https://github.com/benzap/eden) ⭐ 142 | 🐛 1 | 🌐 Clojure | 📅 2020-02-28
@@ -204,8 +204,8 @@
 
 * [Datascript](https://github.com/tonsky/datascript) ⭐ 5,784 | 🐛 75 | 🌐 Clojure | 📅 2026-08-15
 * [xtdb](https://github.com/xtdb/xtdb) ⭐ 3,044 | 🐛 724 | 🌐 Clojure | 📅 2026-08-28: bitemporal database for SQL, Datalog & graph queries
-* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,864 | 🐛 98 | 🌐 Clojure | 📅 2026-08-29
-* [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,471 | 🐛 30 | 🌐 Clojure | 📅 2026-08-28
+* [Datahike](https://github.com/replikativ/datahike) ⭐ 1,864 | 🐛 96 | 🌐 Clojure | 📅 2026-08-29
+* [Datalevin](https://github.com/juji-io/datalevin) ⭐ 1,471 | 🐛 30 | 🌐 Clojure | 📅 2026-08-29
 * [next.jdbc](https://github.com/seancorfield/next-jdbc) ⭐ 863 | 🐛 0 | 🌐 Clojure | 📅 2026-08-03
 * [clojure.java.jdbc](https://github.com/clojure/java.jdbc) ⭐ 734 | 🐛 1 | 🌐 Clojure | 📅 2026-01-02
 * [Spandex](https://github.com/mpenet/spandex) ⭐ 264 | 🐛 1 | 🌐 Clojure | 📅 2025-12-02: for ElasticSearch
@@ -279,7 +279,7 @@
 * [caesium](https://github.com/lvh/caesium) ⭐ 182 | 🐛 13 | 🌐 Clojure | 📅 2023-09-15 (libsodium bindings)
 * [bolt](https://github.com/juxt/bolt) ⭐ 121 | 🐛 9 | 🌐 Clojure | 📅 2015-07-22
 * [secrets.clj](https://github.com/lk-geimfari/secrets.clj) ⭐ 98 | 🐛 0 | 🌐 Clojure | 📅 2024-04-05
-* [EACL](https://github.com/theronic/eacl) ⭐ 89 | 🐛 8 | 🌐 Clojure | 📅 2026-08-29: Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.
+* [EACL](https://github.com/theronic/eacl) ⭐ 89 | 🐛 9 | 🌐 Clojure | 📅 2026-08-29: Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.
 
 ## RESTful API
 
@@ -316,7 +316,7 @@
 *Libraries for validating data.*
 
 * [Prismatic's schema](https://github.com/plumatic/schema) ⭐ 2,462 | 🐛 28 | 🌐 Clojure | 📅 2026-08-09
-* [Malli](https://github.com/metosin/malli) ⭐ 1,761 | 🐛 140 | 🌐 Clojure | 📅 2026-08-21
+* [Malli](https://github.com/metosin/malli) ⭐ 1,762 | 🐛 140 | 🌐 Clojure | 📅 2026-08-21
 * [Orchestra](https://github.com/jeaye/orchestra) ⭐ 625 | 🐛 9 | 🌐 Clojure | 📅 2021-01-01
 * [Bouncer](https://github.com/leonardoborges/bouncer) ⭐ 361 | 🐛 10 | 🌐 Clojure | 📅 2021-07-12
 * [Guardrails](https://github.com/fulcrologic/guardrails) ⭐ 258 | 🐛 0 | 🌐 Clojure | 📅 2026-06-03
@@ -462,7 +462,7 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-* [CIDER (Emacs)](https://github.com/clojure-emacs/cider) ⭐ 3,678 | 🐛 28 | 🌐 Emacs Lisp | 📅 2026-08-28
+* [CIDER (Emacs)](https://github.com/clojure-emacs/cider) ⭐ 3,679 | 🐛 27 | 🌐 Emacs Lisp | 📅 2026-08-29
 * [Conjure (Neovim)](https://github.com/Olical/conjure) ⭐ 2,136 | 🐛 90 | 🌐 Fennel | 📅 2026-08-28
 * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva) ⭐ 2,083 | 🐛 454 | 🌐 TypeScript | 📅 2026-08-27
 * [smartparens (Emacs)](https://github.com/Fuco1/smartparens) ⭐ 1,941 | 🐛 250 | 🌐 Emacs Lisp | 📅 2026-01-29
