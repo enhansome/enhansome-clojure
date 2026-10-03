@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Metabase",
-              "description": null,
+              "description": "metabase/metabase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T15:48:17Z",
-                "open_issues": 4578,
+                "last_commit": "2026-10-03T04:17:13Z",
+                "open_issues": 4561,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 49511,
+                "stars": 49517,
                 "topics": [
                   "analytics",
                   "bi",
@@ -51,7 +51,7 @@
             {
               "node_type": "item",
               "title": "Jepsen",
-              "description": null,
+              "description": "jepsen-io/jepsen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -64,7 +64,7 @@
                 "open_issues": 66,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7512,
+                "stars": 7513,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -93,7 +93,7 @@
             {
               "node_type": "item",
               "title": "Liquid (Text Editor)",
-              "description": null,
+              "description": "mogenslund/liquid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -141,7 +141,7 @@
             {
               "node_type": "item",
               "title": "Clojupyter",
-              "description": null,
+              "description": "clojupyter/clojupyter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "PuppetDB",
-              "description": null,
+              "description": "puppetlabs/puppetdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,7 +294,7 @@
                 "open_issues": 28,
                 "owner": "puppetlabs",
                 "repo": "puppetdb",
-                "stars": 306,
+                "stars": 305,
                 "topics": [
                   "clojure",
                   "puppet",
@@ -306,7 +306,7 @@
             {
               "node_type": "item",
               "title": "Puppet Server",
-              "description": null,
+              "description": "puppetlabs/puppetserver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -354,7 +354,7 @@
             {
               "node_type": "item",
               "title": "Avi (vim rewrite)",
-              "description": null,
+              "description": "maitria/avi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -402,7 +402,7 @@
             {
               "node_type": "item",
               "title": "Metabase Datomic",
-              "description": null,
+              "description": "lambdaisland/metabase-datomic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -427,7 +427,7 @@
             {
               "node_type": "item",
               "title": "meins",
-              "description": null,
+              "description": "matthiasn/meins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T15:35:20Z",
-                "open_issues": 954,
+                "last_commit": "2026-10-03T03:50:16Z",
+                "open_issues": 963,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45109,
+                "stars": 45114,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "mal",
-              "description": null,
+              "description": "kanaka/mal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10742,
+                "stars": 10740,
                 "topics": [
                   "bash",
                   "c",
@@ -537,7 +537,7 @@
             {
               "node_type": "item",
               "title": "jank",
-              "description": null,
+              "description": "jank-lang/jank",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -550,7 +550,7 @@
                 "open_issues": 76,
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3337,
+                "stars": 3338,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -569,7 +569,7 @@
             {
               "node_type": "item",
               "title": "lux",
-              "description": null,
+              "description": "LuxLang/lux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -605,7 +605,7 @@
             {
               "node_type": "item",
               "title": "scheje",
-              "description": null,
+              "description": "turbopape/scheje",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +634,7 @@
             {
               "node_type": "item",
               "title": "eden",
-              "description": null,
+              "description": "benzap/eden",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1057,7 +1057,7 @@
         {
           "node_type": "item",
           "title": "Hierarchical set",
-          "description": null,
+          "description": "llasram/hier-set",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1084,7 +1084,7 @@
         {
           "node_type": "item",
           "title": "Compojure",
-          "description": null,
+          "description": "weavejester/compojure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1110,7 +1110,7 @@
         {
           "node_type": "item",
           "title": "Pedestal",
-          "description": null,
+          "description": "pedestal/pedestal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1134,7 +1134,7 @@
         {
           "node_type": "item",
           "title": "Fulcro",
-          "description": null,
+          "description": "fulcrologic/fulcro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1147,7 +1147,7 @@
             "open_issues": 2,
             "owner": "fulcrologic",
             "repo": "fulcro",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "clojurescript",
               "data-driven",
@@ -1162,7 +1162,7 @@
         {
           "node_type": "item",
           "title": "Reitit",
-          "description": null,
+          "description": "metosin/reitit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1195,7 +1195,7 @@
         {
           "node_type": "item",
           "title": "Duct",
-          "description": null,
+          "description": "duct-framework/duct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1221,7 +1221,7 @@
         {
           "node_type": "item",
           "title": "Compojure-api",
-          "description": null,
+          "description": "metosin/compojure-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1254,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "yada",
-          "description": null,
+          "description": "juxt/yada",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1282,7 +1282,7 @@
         {
           "node_type": "item",
           "title": "Datsys",
-          "description": null,
+          "description": "metasoarous/datsys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1316,7 +1316,7 @@
         {
           "node_type": "item",
           "title": "Component",
-          "description": null,
+          "description": "stuartsierra/component",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1337,7 +1337,7 @@
         {
           "node_type": "item",
           "title": "Integrant",
-          "description": null,
+          "description": "weavejester/integrant",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1362,7 +1362,7 @@
         {
           "node_type": "item",
           "title": "mount",
-          "description": null,
+          "description": "tolitius/mount",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1387,7 +1387,7 @@
         {
           "node_type": "item",
           "title": "System",
-          "description": null,
+          "description": "danielsz/system",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1408,7 +1408,7 @@
         {
           "node_type": "item",
           "title": "clip",
-          "description": null,
+          "description": "juxt/clip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1429,7 +1429,7 @@
         {
           "node_type": "item",
           "title": "piotr-yuxuan/closeable-map",
-          "description": null,
+          "description": "piotr-yuxuan/closeable-map",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1462,7 +1462,7 @@
         {
           "node_type": "item",
           "title": "darkleaf/di",
-          "description": null,
+          "description": "darkleaf/di",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1495,7 +1495,7 @@
         {
           "node_type": "item",
           "title": "Leiningen",
-          "description": null,
+          "description": "technomancy/leiningen",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1542,7 +1542,7 @@
         {
           "node_type": "item",
           "title": "Boot",
-          "description": null,
+          "description": "boot-clj/boot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1555,7 +1555,7 @@
             "open_issues": 111,
             "owner": "boot-clj",
             "repo": "boot",
-            "stars": 1749,
+            "stars": 1748,
             "topics": [
               "boot",
               "boot-clj",
@@ -1601,7 +1601,7 @@
             {
               "node_type": "item",
               "title": "build.simple",
-              "description": null,
+              "description": "gnl/build.simple",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1638,7 +1638,7 @@
         {
           "node_type": "item",
           "title": "clj-time",
-          "description": null,
+          "description": "clj-time/clj-time",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1707,7 +1707,7 @@
         {
           "node_type": "item",
           "title": "timewords",
-          "description": null,
+          "description": "tokenmill/timewords",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1762,7 +1762,7 @@
         {
           "node_type": "item",
           "title": "seesaw",
-          "description": null,
+          "description": "clj-commons/seesaw",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1783,7 +1783,7 @@
         {
           "node_type": "item",
           "title": "trikl",
-          "description": null,
+          "description": "lambdaisland/trikl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1804,7 +1804,7 @@
         {
           "node_type": "item",
           "title": "fx-clj",
-          "description": null,
+          "description": "aaronc/fx-clj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1870,7 +1870,7 @@
             "open_issues": 49,
             "owner": "clj-commons",
             "repo": "aleph",
-            "stars": 2591,
+            "stars": 2590,
             "topics": [
               "clojure",
               "http",
@@ -1899,7 +1899,7 @@
             "open_issues": 52,
             "owner": "http-kit",
             "repo": "http-kit",
-            "stars": 2566,
+            "stars": 2565,
             "topics": [
               "async",
               "clojure",
@@ -1982,7 +1982,7 @@
         {
           "node_type": "item",
           "title": "Datascript",
-          "description": null,
+          "description": "tonsky/datascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1995,7 +1995,7 @@
             "open_issues": 76,
             "owner": "tonsky",
             "repo": "datascript",
-            "stars": 5796,
+            "stars": 5795,
             "topics": [
               "clojure",
               "clojurescript",
@@ -2037,7 +2037,7 @@
         {
           "node_type": "item",
           "title": "Datahike",
-          "description": null,
+          "description": "replikativ/datahike",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2064,7 +2064,7 @@
         {
           "node_type": "item",
           "title": "Datalevin",
-          "description": null,
+          "description": "datalevin/datalevin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2073,7 +2073,7 @@
             "id": 270858421,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-02T05:37:06Z",
+            "last_commit": "2026-10-03T00:35:58Z",
             "open_issues": 29,
             "owner": "datalevin",
             "repo": "datalevin",
@@ -2094,7 +2094,7 @@
         {
           "node_type": "item",
           "title": "next.jdbc",
-          "description": null,
+          "description": "seancorfield/next-jdbc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2117,7 +2117,7 @@
         {
           "node_type": "item",
           "title": "clojure.java.jdbc",
-          "description": null,
+          "description": "clojure/java.jdbc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2229,7 +2229,7 @@
         {
           "node_type": "item",
           "title": "clojure.jdbc",
-          "description": null,
+          "description": "funcool/clojure.jdbc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2250,7 +2250,7 @@
         {
           "node_type": "item",
           "title": "cravendb",
-          "description": null,
+          "description": "robashton/cravendb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2324,7 +2324,7 @@
         {
           "node_type": "item",
           "title": "hikari-cp",
-          "description": null,
+          "description": "tomekw/hikari-cp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2350,7 +2350,7 @@
         {
           "node_type": "item",
           "title": "metabase/connection-pool",
-          "description": null,
+          "description": "metabase/connection-pool",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2387,7 +2387,7 @@
         {
           "node_type": "item",
           "title": "Migratus",
-          "description": null,
+          "description": "yogthos/migratus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2411,7 +2411,7 @@
         {
           "node_type": "item",
           "title": "Ragtime",
-          "description": null,
+          "description": "weavejester/ragtime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2438,7 +2438,7 @@
         {
           "node_type": "item",
           "title": "Joplin",
-          "description": null,
+          "description": "juxt/joplin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2459,7 +2459,7 @@
         {
           "node_type": "item",
           "title": "Lobos",
-          "description": null,
+          "description": "budu/lobos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2480,7 +2480,7 @@
         {
           "node_type": "item",
           "title": "Drift",
-          "description": null,
+          "description": "macourtney/drift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2507,7 +2507,7 @@
         {
           "node_type": "item",
           "title": "carmine",
-          "description": null,
+          "description": "taoensso/carmine",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2534,7 +2534,7 @@
         {
           "node_type": "item",
           "title": "celtuce",
-          "description": null,
+          "description": "lerouxrgd/celtuce",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2565,7 +2565,7 @@
         {
           "node_type": "item",
           "title": "cheshire",
-          "description": null,
+          "description": "dakrone/cheshire",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2586,7 +2586,7 @@
         {
           "node_type": "item",
           "title": "jsonista",
-          "description": null,
+          "description": "metosin/jsonista",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2618,7 +2618,7 @@
         {
           "node_type": "item",
           "title": "pronto",
-          "description": null,
+          "description": "AppsFlyer/pronto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2645,7 +2645,7 @@
         {
           "node_type": "item",
           "title": "lein-protodeps",
-          "description": null,
+          "description": "AppsFlyer/lein-protodeps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2678,7 +2678,7 @@
         {
           "node_type": "item",
           "title": "honeysql",
-          "description": null,
+          "description": "seancorfield/honeysql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2691,7 +2691,7 @@
             "open_issues": 2,
             "owner": "seancorfield",
             "repo": "honeysql",
-            "stars": 1926,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -2699,7 +2699,7 @@
         {
           "node_type": "item",
           "title": "Korma",
-          "description": null,
+          "description": "korma/Korma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2720,7 +2720,7 @@
         {
           "node_type": "item",
           "title": "Toucan",
-          "description": null,
+          "description": "metabase/toucan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2750,7 +2750,7 @@
         {
           "node_type": "item",
           "title": "Walkable",
-          "description": null,
+          "description": "walkable-server/walkable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2792,7 +2792,7 @@
         {
           "node_type": "item",
           "title": "sqlingvo",
-          "description": null,
+          "description": "r0man/sqlingvo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2819,7 +2819,7 @@
         {
           "node_type": "item",
           "title": "Specql",
-          "description": null,
+          "description": "tatut/specql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2844,7 +2844,7 @@
         {
           "node_type": "item",
           "title": "stch-library/sql",
-          "description": null,
+          "description": "stch-library/sql",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2871,7 +2871,7 @@
         {
           "node_type": "item",
           "title": "Friend",
-          "description": null,
+          "description": "cemerick/friend",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2892,7 +2892,7 @@
         {
           "node_type": "item",
           "title": "Buddy",
-          "description": null,
+          "description": "funcool/buddy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2934,7 +2934,7 @@
         {
           "node_type": "item",
           "title": "bolt",
-          "description": null,
+          "description": "juxt/bolt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "secrets.clj",
-          "description": null,
+          "description": "lk-geimfari/secrets.clj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3038,7 +3038,7 @@
         {
           "node_type": "item",
           "title": "reitit",
-          "description": null,
+          "description": "metosin/reitit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3071,7 +3071,7 @@
         {
           "node_type": "item",
           "title": "Compojure-api",
-          "description": null,
+          "description": "metosin/compojure-api",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3104,7 +3104,7 @@
         {
           "node_type": "item",
           "title": "yada",
-          "description": null,
+          "description": "juxt/yada",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3132,7 +3132,7 @@
         {
           "node_type": "item",
           "title": "Friboo",
-          "description": null,
+          "description": "zalando/friboo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3158,7 +3158,7 @@
         {
           "node_type": "item",
           "title": "router",
-          "description": null,
+          "description": "darkleaf/router",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3194,7 +3194,7 @@
         {
           "node_type": "item",
           "title": "hiccup",
-          "description": null,
+          "description": "weavejester/hiccup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3219,7 +3219,7 @@
         {
           "node_type": "item",
           "title": "Enlive",
-          "description": null,
+          "description": "cgrand/enlive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3240,7 +3240,7 @@
         {
           "node_type": "item",
           "title": "selmer",
-          "description": null,
+          "description": "yogthos/Selmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3266,7 +3266,7 @@
         {
           "node_type": "item",
           "title": "clostache",
-          "description": null,
+          "description": "fhd/clostache",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3293,7 +3293,7 @@
         {
           "node_type": "item",
           "title": "Prismatic's schema",
-          "description": null,
+          "description": "plumatic/schema",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3314,7 +3314,7 @@
         {
           "node_type": "item",
           "title": "Malli",
-          "description": null,
+          "description": "metosin/malli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3327,7 +3327,7 @@
             "open_issues": 141,
             "owner": "metosin",
             "repo": "malli",
-            "stars": 1770,
+            "stars": 1771,
             "topics": [
               "clojure",
               "clojurescript",
@@ -3348,7 +3348,7 @@
         {
           "node_type": "item",
           "title": "Orchestra",
-          "description": null,
+          "description": "jeaye/orchestra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3374,7 +3374,7 @@
         {
           "node_type": "item",
           "title": "Bouncer",
-          "description": null,
+          "description": "theleoborges/bouncer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3399,7 +3399,7 @@
         {
           "node_type": "item",
           "title": "Guardrails",
-          "description": null,
+          "description": "fulcrologic/guardrails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3420,7 +3420,7 @@
         {
           "node_type": "item",
           "title": "struct",
-          "description": null,
+          "description": "funcool/struct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3441,7 +3441,7 @@
         {
           "node_type": "item",
           "title": "clova",
-          "description": null,
+          "description": "markwoodhall/clova",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3466,7 +3466,7 @@
         {
           "node_type": "item",
           "title": "domaintypes",
-          "description": null,
+          "description": "friemen/domaintypes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3493,7 +3493,7 @@
         {
           "node_type": "item",
           "title": "core.match",
-          "description": null,
+          "description": "clojure/core.match",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3514,7 +3514,7 @@
         {
           "node_type": "item",
           "title": "Meander",
-          "description": null,
+          "description": "noprompt/meander",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3542,7 +3542,7 @@
         {
           "node_type": "item",
           "title": "defun",
-          "description": null,
+          "description": "killme2008/defun",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3568,7 +3568,7 @@
         {
           "node_type": "item",
           "title": "Akar",
-          "description": null,
+          "description": "missingfaktor/akar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3593,7 +3593,7 @@
         {
           "node_type": "item",
           "title": "Verbal-Exprejon",
-          "description": null,
+          "description": "WeshGuillaume/Verbal-Exprejon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3614,7 +3614,7 @@
         {
           "node_type": "item",
           "title": "cats.match",
-          "description": null,
+          "description": "zalando-stups/cats.match",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3645,7 +3645,7 @@
         {
           "node_type": "item",
           "title": "core.async",
-          "description": null,
+          "description": "clojure/core.async",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3666,7 +3666,7 @@
         {
           "node_type": "item",
           "title": "manifold",
-          "description": null,
+          "description": "clj-commons/manifold",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3693,7 +3693,7 @@
         {
           "node_type": "item",
           "title": "pulsar",
-          "description": null,
+          "description": "puniverse/pulsar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3720,7 +3720,7 @@
         {
           "node_type": "item",
           "title": "goose",
-          "description": null,
+          "description": "nilenso/goose",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3755,7 +3755,7 @@
         {
           "node_type": "item",
           "title": "cats",
-          "description": null,
+          "description": "funcool/cats",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3776,7 +3776,7 @@
         {
           "node_type": "item",
           "title": "Fluokitten",
-          "description": null,
+          "description": "uncomplicate/fluokitten",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3804,7 +3804,7 @@
         {
           "node_type": "item",
           "title": "algo.monads",
-          "description": null,
+          "description": "clojure/algo.monads",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3831,7 +3831,7 @@
         {
           "node_type": "item",
           "title": "aleph",
-          "description": null,
+          "description": "clj-commons/aleph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3844,7 +3844,7 @@
             "open_issues": 49,
             "owner": "clj-commons",
             "repo": "aleph",
-            "stars": 2591,
+            "stars": 2590,
             "topics": [
               "clojure",
               "http",
@@ -3860,7 +3860,7 @@
         {
           "node_type": "item",
           "title": "Sente",
-          "description": null,
+          "description": "taoensso/sente",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3892,7 +3892,7 @@
         {
           "node_type": "item",
           "title": "Chord",
-          "description": null,
+          "description": "jarohen/chord",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3919,7 +3919,7 @@
         {
           "node_type": "item",
           "title": "Midje",
-          "description": null,
+          "description": "marick/Midje",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3940,7 +3940,7 @@
         {
           "node_type": "item",
           "title": "kaocha",
-          "description": null,
+          "description": "lambdaisland/kaocha",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3966,7 +3966,7 @@
         {
           "node_type": "item",
           "title": "Expectations",
-          "description": null,
+          "description": "clojure-expectations/expectations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3987,7 +3987,7 @@
         {
           "node_type": "item",
           "title": "StateFlow",
-          "description": null,
+          "description": "nubank/state-flow",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4010,7 +4010,7 @@
         {
           "node_type": "item",
           "title": "test-doubles",
-          "description": null,
+          "description": "GreenPowerMonitor/test-doubles",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4031,7 +4031,7 @@
         {
           "node_type": "item",
           "title": "Datest",
-          "description": null,
+          "description": "amokfa/datest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4058,7 +4058,7 @@
         {
           "node_type": "item",
           "title": "clj-kondo",
-          "description": null,
+          "description": "clj-kondo/clj-kondo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4086,7 +4086,7 @@
         {
           "node_type": "item",
           "title": "kibit",
-          "description": null,
+          "description": "clj-commons/kibit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4107,7 +4107,7 @@
         {
           "node_type": "item",
           "title": "eastwood",
-          "description": null,
+          "description": "jonase/eastwood",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4128,7 +4128,7 @@
         {
           "node_type": "item",
           "title": "spectrum",
-          "description": null,
+          "description": "arohner/spectrum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4149,7 +4149,7 @@
         {
           "node_type": "item",
           "title": "cloverage",
-          "description": null,
+          "description": "cloverage/cloverage",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4170,7 +4170,7 @@
         {
           "node_type": "item",
           "title": "Slamhound",
-          "description": null,
+          "description": "technomancy/slamhound",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4191,7 +4191,7 @@
         {
           "node_type": "item",
           "title": "yagni",
-          "description": null,
+          "description": "venantius/yagni",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4212,7 +4212,7 @@
         {
           "node_type": "item",
           "title": "lein-bikeshed",
-          "description": null,
+          "description": "dakrone/lein-bikeshed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4233,7 +4233,7 @@
         {
           "node_type": "item",
           "title": "splint",
-          "description": null,
+          "description": "NoahTheDuke/splint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4263,7 +4263,7 @@
         {
           "node_type": "item",
           "title": "Incanter",
-          "description": null,
+          "description": "incanter/incanter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4284,7 +4284,7 @@
         {
           "node_type": "item",
           "title": "Onyx",
-          "description": null,
+          "description": "onyx-platform/onyx",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4311,7 +4311,7 @@
         {
           "node_type": "item",
           "title": "Neanderthal",
-          "description": null,
+          "description": "uncomplicate/neanderthal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4349,7 +4349,7 @@
         {
           "node_type": "item",
           "title": "Neanderthal - fast matrix and linear algebra",
-          "description": null,
+          "description": "uncomplicate/neanderthal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4387,7 +4387,7 @@
         {
           "node_type": "item",
           "title": "Loom - graph library for Clojure",
-          "description": null,
+          "description": "clj-commons/loom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4414,7 +4414,7 @@
         {
           "node_type": "item",
           "title": "flambo",
-          "description": null,
+          "description": "sorenmacbeth/flambo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4435,7 +4435,7 @@
         {
           "node_type": "item",
           "title": "sparklling",
-          "description": null,
+          "description": "gorillalabs/sparkling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4456,7 +4456,7 @@
         {
           "node_type": "item",
           "title": "Bayadera - Bayesian Data Analysis on the GPU",
-          "description": null,
+          "description": "uncomplicate/bayadera",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4493,7 +4493,7 @@
         {
           "node_type": "item",
           "title": "ClojureCL - parallel computations with OpenCL",
-          "description": null,
+          "description": "uncomplicate/clojurecl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4525,7 +4525,7 @@
         {
           "node_type": "item",
           "title": "ClojureCUDA",
-          "description": null,
+          "description": "uncomplicate/clojurecuda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4555,7 +4555,7 @@
         {
           "node_type": "item",
           "title": "Streaming Histograms",
-          "description": null,
+          "description": "bigmlcom/histogram",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4587,7 +4587,7 @@
         {
           "node_type": "item",
           "title": "Deeplearning4j",
-          "description": null,
+          "description": "deeplearning4j/deeplearning4j",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4624,7 +4624,7 @@
         {
           "node_type": "item",
           "title": "cortex",
-          "description": null,
+          "description": "rosejn/cortex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4720,7 +4720,7 @@
         {
           "node_type": "item",
           "title": "Flare",
-          "description": null,
+          "description": "aria42/flare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4741,7 +4741,7 @@
         {
           "node_type": "item",
           "title": "clojurecl",
-          "description": null,
+          "description": "uncomplicate/clojurecl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4773,7 +4773,7 @@
         {
           "node_type": "item",
           "title": "scicloj.ml",
-          "description": null,
+          "description": "scicloj/scicloj.ml",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4806,7 +4806,7 @@
         {
           "node_type": "item",
           "title": "clojurecuda",
-          "description": null,
+          "description": "uncomplicate/clojurecuda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4836,7 +4836,7 @@
         {
           "node_type": "item",
           "title": "Infer",
-          "description": null,
+          "description": "aria42/infer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4857,7 +4857,7 @@
         {
           "node_type": "item",
           "title": "clj-ml",
-          "description": null,
+          "description": "antoniogarrote/clj-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4870,7 +4870,7 @@
             "open_issues": 2,
             "owner": "antoniogarrote",
             "repo": "clj-ml",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -4878,7 +4878,7 @@
         {
           "node_type": "item",
           "title": "Enclog",
-          "description": null,
+          "description": "jimpil/enclog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4899,7 +4899,7 @@
         {
           "node_type": "item",
           "title": "clojure-tensorflow",
-          "description": null,
+          "description": "kieranbrowne/clojure-tensorflow",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4924,7 +4924,7 @@
         {
           "node_type": "item",
           "title": "k9",
-          "description": null,
+          "description": "gigasquid/k9",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4945,7 +4945,7 @@
         {
           "node_type": "item",
           "title": "dl4clj (deeplearning4j to clojure)",
-          "description": null,
+          "description": "yetanalytics/dl4clj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4966,7 +4966,7 @@
         {
           "node_type": "item",
           "title": "Synaptic",
-          "description": null,
+          "description": "japonophile/synaptic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4987,7 +4987,7 @@
         {
           "node_type": "item",
           "title": "lambda-ml",
-          "description": null,
+          "description": "cloudkj/lambda-ml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5012,7 +5012,7 @@
         {
           "node_type": "item",
           "title": "Clatern",
-          "description": null,
+          "description": "rinuboney/clatern",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5033,7 +5033,7 @@
         {
           "node_type": "item",
           "title": "Statistiker",
-          "description": null,
+          "description": "clojurewerkz/statistiker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5054,7 +5054,7 @@
         {
           "node_type": "item",
           "title": "clj-bigml",
-          "description": null,
+          "description": "bigmlcom/clj-bigml",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5075,7 +5075,7 @@
         {
           "node_type": "item",
           "title": "clj-synapses",
-          "description": null,
+          "description": "mrdimosthenis/clj-synapses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5138,7 +5138,7 @@
         {
           "node_type": "item",
           "title": "clj-tesseract",
-          "description": null,
+          "description": "antoniogarrote/clj-tesseract",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5165,7 +5165,7 @@
         {
           "node_type": "item",
           "title": "clojure-opennlp",
-          "description": null,
+          "description": "dakrone/clojure-opennlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5186,7 +5186,7 @@
         {
           "node_type": "item",
           "title": "lmgrep",
-          "description": null,
+          "description": "dainiusjocas/lucene-grep",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5213,7 +5213,7 @@
         {
           "node_type": "item",
           "title": "postagga",
-          "description": null,
+          "description": "turbopape/postagga",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5242,7 +5242,7 @@
         {
           "node_type": "item",
           "title": "beagle",
-          "description": null,
+          "description": "tokenmill/beagle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5279,7 +5279,7 @@
         {
           "node_type": "item",
           "title": "Instaparse",
-          "description": null,
+          "description": "Engelberg/instaparse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5292,7 +5292,7 @@
             "open_issues": 43,
             "owner": "Engelberg",
             "repo": "instaparse",
-            "stars": 2826,
+            "stars": 2827,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5300,7 +5300,7 @@
         {
           "node_type": "item",
           "title": "duckling",
-          "description": null,
+          "description": "facebookarchive/duckling_old",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5325,7 +5325,7 @@
         {
           "node_type": "item",
           "title": "kern",
-          "description": null,
+          "description": "blancas/kern",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5387,7 +5387,7 @@
         {
           "node_type": "item",
           "title": "Dire",
-          "description": null,
+          "description": "MichaelDrogalis/dire",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5408,7 +5408,7 @@
         {
           "node_type": "item",
           "title": "Perseverance",
-          "description": null,
+          "description": "grammarly/perseverance",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5429,7 +5429,7 @@
         {
           "node_type": "item",
           "title": "Ex",
-          "description": null,
+          "description": "mpenet/ex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5459,7 +5459,7 @@
         {
           "node_type": "item",
           "title": "Clara Rules",
-          "description": null,
+          "description": "oracle-samples/clara-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5480,7 +5480,7 @@
         {
           "node_type": "item",
           "title": "O'Doyle Rules",
-          "description": null,
+          "description": "oakes/odoyle-rules",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5501,7 +5501,7 @@
         {
           "node_type": "item",
           "title": "Arete",
-          "description": null,
+          "description": "yipeeio/arete",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5528,7 +5528,7 @@
         {
           "node_type": "item",
           "title": "CIDER (Emacs)",
-          "description": null,
+          "description": "clojure-emacs/cider",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5555,7 +5555,7 @@
         {
           "node_type": "item",
           "title": "Conjure (Neovim)",
-          "description": null,
+          "description": "Olical/conjure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5592,7 +5592,7 @@
         {
           "node_type": "item",
           "title": "Calva (VSCode)",
-          "description": null,
+          "description": "BetterThanTomorrow/calva",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5613,7 +5613,7 @@
         {
           "node_type": "item",
           "title": "smartparens (Emacs)",
-          "description": null,
+          "description": "Fuco1/smartparens",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5641,7 +5641,7 @@
         {
           "node_type": "item",
           "title": "vim-fireplace (Vim)",
-          "description": null,
+          "description": "tpope/vim-fireplace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5662,7 +5662,7 @@
         {
           "node_type": "item",
           "title": "clojure-lsp (multiple editors)",
-          "description": null,
+          "description": "clojure-lsp/clojure-lsp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5675,7 +5675,7 @@
             "open_issues": 223,
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "clj",
               "clojure",
@@ -5694,7 +5694,7 @@
         {
           "node_type": "item",
           "title": "aggressive-indent (Emacs)",
-          "description": null,
+          "description": "Malabarba/aggressive-indent-mode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5715,7 +5715,7 @@
         {
           "node_type": "item",
           "title": "rainbow-delimiters (Emacs)",
-          "description": null,
+          "description": "Fanael/rainbow-delimiters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5736,7 +5736,7 @@
         {
           "node_type": "item",
           "title": "vim-iced (Vim)",
-          "description": null,
+          "description": "liquidz/vim-iced",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5767,7 +5767,7 @@
         {
           "node_type": "item",
           "title": "rainbow_parentheses.vim (Vim)",
-          "description": null,
+          "description": "junegunn/rainbow_parentheses.vim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5788,7 +5788,7 @@
         {
           "node_type": "item",
           "title": "clojureVSCode (VSCode)",
-          "description": null,
+          "description": "avli/clojureVSCode",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5814,7 +5814,7 @@
         {
           "node_type": "item",
           "title": "vim-leiningen (Vim)",
-          "description": null,
+          "description": "tpope/vim-salve",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5835,7 +5835,7 @@
         {
           "node_type": "item",
           "title": "vim-cljfmt (Vim)",
-          "description": null,
+          "description": "venantius/vim-cljfmt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5856,7 +5856,7 @@
         {
           "node_type": "item",
           "title": "vim-redl (Vim)",
-          "description": null,
+          "description": "dgrnbrg/vim-redl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5877,7 +5877,7 @@
         {
           "node_type": "item",
           "title": "vim-eastwood (Vim)",
-          "description": null,
+          "description": "venantius/vim-eastwood",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5931,7 +5931,7 @@
         {
           "node_type": "item",
           "title": "klipse",
-          "description": null,
+          "description": "viebel/klipse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5972,7 +5972,7 @@
         {
           "node_type": "item",
           "title": "marginalia",
-          "description": null,
+          "description": "clj-commons/marginalia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5993,7 +5993,7 @@
         {
           "node_type": "item",
           "title": "blackfog",
-          "description": null,
+          "description": "neromous/blackfog.dsl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6020,7 +6020,7 @@
         {
           "node_type": "item",
           "title": "slingshot",
-          "description": null,
+          "description": "scgilardi/slingshot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6062,7 +6062,7 @@
         {
           "node_type": "item",
           "title": "virgil",
-          "description": null,
+          "description": "clj-commons/virgil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6088,7 +6088,7 @@
         {
           "node_type": "item",
           "title": "riddley",
-          "description": null,
+          "description": "clj-commons/riddley",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6109,7 +6109,7 @@
         {
           "node_type": "item",
           "title": "clj-tuple",
-          "description": null,
+          "description": "ztellman/clj-tuple",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6130,7 +6130,7 @@
         {
           "node_type": "item",
           "title": "javastar",
-          "description": null,
+          "description": "tailrecursion/javastar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6151,7 +6151,7 @@
         {
           "node_type": "item",
           "title": "kezban",
-          "description": null,
+          "description": "ertugrulcetin/kezban",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6178,7 +6178,7 @@
         {
           "node_type": "item",
           "title": "clj-grpc",
-          "description": null,
+          "description": "otwieracz/clj-grpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6205,7 +6205,7 @@
         {
           "node_type": "item",
           "title": "figwheel",
-          "description": null,
+          "description": "bhauman/lein-figwheel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6232,7 +6232,7 @@
         {
           "node_type": "item",
           "title": "ultra",
-          "description": null,
+          "description": "venantius/ultra",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6257,7 +6257,7 @@
         {
           "node_type": "item",
           "title": "flow-storm-debugger",
-          "description": null,
+          "description": "flow-storm/flow-storm-debugger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6283,7 +6283,7 @@
         {
           "node_type": "item",
           "title": "pretty",
-          "description": null,
+          "description": "clj-commons/pretty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6308,7 +6308,7 @@
         {
           "node_type": "item",
           "title": "scope-capture",
-          "description": null,
+          "description": "vvvvalvalval/scope-capture",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6335,7 +6335,7 @@
         {
           "node_type": "item",
           "title": "spyscope",
-          "description": null,
+          "description": "dgrnbrg/spyscope",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6356,7 +6356,7 @@
         {
           "node_type": "item",
           "title": "prone",
-          "description": null,
+          "description": "magnars/prone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6377,7 +6377,7 @@
         {
           "node_type": "item",
           "title": "tools.trace",
-          "description": null,
+          "description": "clojure/tools.trace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6398,7 +6398,7 @@
         {
           "node_type": "item",
           "title": "ritz",
-          "description": null,
+          "description": "pallet/ritz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6419,7 +6419,7 @@
         {
           "node_type": "item",
           "title": "debugger",
-          "description": null,
+          "description": "razum2um/clj-debugger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6443,7 +6443,7 @@
         {
           "node_type": "item",
           "title": "debug-repl",
-          "description": null,
+          "description": "GeorgeJahad/debug-repl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6464,7 +6464,7 @@
         {
           "node_type": "item",
           "title": "aprint",
-          "description": null,
+          "description": "razum2um/aprint",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6485,7 +6485,7 @@
         {
           "node_type": "item",
           "title": "playback",
-          "description": null,
+          "description": "gnl/playback",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6515,7 +6515,7 @@
         {
           "node_type": "item",
           "title": "mate-clj",
-          "description": null,
+          "description": "AppsFlyer/mate-clj",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6538,7 +6538,7 @@
         {
           "node_type": "item",
           "title": "packed-printer",
-          "description": null,
+          "description": "cgrand/packed-printer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6559,7 +6559,7 @@
         {
           "node_type": "item",
           "title": "redl",
-          "description": null,
+          "description": "dgrnbrg/redl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6580,7 +6580,7 @@
         {
           "node_type": "item",
           "title": "limit-break",
-          "description": null,
+          "description": "technomancy/limit-break",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6607,7 +6607,7 @@
         {
           "node_type": "item",
           "title": "lambdacd",
-          "description": null,
+          "description": "flosell/lambdacd",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6648,7 +6648,7 @@
         {
           "node_type": "item",
           "title": "milestones",
-          "description": null,
+          "description": "turbopape/milestones",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6679,7 +6679,7 @@
         {
           "node_type": "item",
           "title": "closh",
-          "description": null,
+          "description": "dundalek/closh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6707,7 +6707,7 @@
         {
           "node_type": "item",
           "title": "clojure-lanterna",
-          "description": null,
+          "description": "MultiMUD/clojure-lanterna",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6732,7 +6732,7 @@
         {
           "node_type": "item",
           "title": "triki",
-          "description": null,
+          "description": "lambdaisland/trikl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6753,7 +6753,7 @@
         {
           "node_type": "item",
           "title": "zaffre",
-          "description": null,
+          "description": "kelsey-sorrels/zaffre",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6780,7 +6780,7 @@
         {
           "node_type": "item",
           "title": "piotr-yuxuan/malli-cli",
-          "description": null,
+          "description": "piotr-yuxuan/malli-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6826,7 +6826,7 @@
         {
           "node_type": "item",
           "title": "rhizome",
-          "description": null,
+          "description": "ztellman/rhizome",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6847,7 +6847,7 @@
         {
           "node_type": "item",
           "title": "dorothy",
-          "description": null,
+          "description": "daveray/dorothy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6897,7 +6897,7 @@
         {
           "node_type": "item",
           "title": "fsmviz",
-          "description": null,
+          "description": "jebberjeb/fsmviz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6918,7 +6918,7 @@
         {
           "node_type": "item",
           "title": "viz.cljc",
-          "description": null,
+          "description": "jebberjeb/viz.cljc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6939,7 +6939,7 @@
         {
           "node_type": "item",
           "title": "zipper-viz",
-          "description": null,
+          "description": "lambdaisland/zipper-viz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7022,7 +7022,7 @@
         {
           "node_type": "item",
           "title": "The Clojure Style Guide",
-          "description": null,
+          "description": "bbatsov/clojure-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7047,7 +7047,7 @@
         {
           "node_type": "item",
           "title": "clojure-cookbook",
-          "description": null,
+          "description": "clojure-cookbook/clojure-cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7068,7 +7068,7 @@
         {
           "node_type": "item",
           "title": "Error message catalog",
-          "description": null,
+          "description": "yogthos/clojure-error-message-catalog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7095,7 +7095,7 @@
         {
           "node_type": "item",
           "title": "Wonderland Clojure Katas",
-          "description": null,
+          "description": "gigasquid/wonderland-clojure-katas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7116,7 +7116,7 @@
         {
           "node_type": "item",
           "title": "rich4clojure",
-          "description": null,
+          "description": "PEZ/rich4clojure",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7143,7 +7143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:50:53.294Z",
+    "last_updated": "2026-10-03T04:37:20.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
