@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T13:00:02Z",
-                "open_issues": 4561,
+                "last_commit": "2026-10-04T11:52:07Z",
+                "open_issues": 4566,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 49526,
+                "stars": 49535,
                 "topics": [
                   "analytics",
                   "bi",
@@ -64,7 +64,7 @@
                 "open_issues": 66,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7514,
+                "stars": 7515,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -244,7 +244,7 @@
                 "id": 637955558,
                 "language": "Clojure",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T23:30:26Z",
+                "last_commit": "2026-10-03T22:25:04Z",
                 "open_issues": 8,
                 "owner": "OneKeePass",
                 "repo": "desktop",
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T13:09:55Z",
-                "open_issues": 963,
+                "last_commit": "2026-10-04T14:44:53Z",
+                "open_issues": 962,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45117,
+                "stars": 45127,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -508,7 +508,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10740,
+                "stars": 10741,
                 "topics": [
                   "bash",
                   "c",
@@ -895,7 +895,7 @@
             "open_issues": 3,
             "owner": "lacuna",
             "repo": "bifurcan",
-            "stars": 1018,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1329,7 +1329,7 @@
             "open_issues": 3,
             "owner": "stuartsierra",
             "repo": "component",
-            "stars": 2165,
+            "stars": 2163,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1350,7 +1350,7 @@
             "open_issues": 14,
             "owner": "weavejester",
             "repo": "integrant",
-            "stars": 1366,
+            "stars": 1365,
             "topics": [
               "clojure",
               "data-driven",
@@ -1525,7 +1525,7 @@
             "id": 43973779,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-01T08:26:47Z",
+            "last_commit": "2026-10-04T13:55:58Z",
             "open_issues": 43,
             "owner": "thheller",
             "repo": "shadow-cljs",
@@ -1672,7 +1672,7 @@
             "open_issues": 6,
             "owner": "juxt",
             "repo": "tick",
-            "stars": 646,
+            "stars": 645,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -2022,7 +2022,7 @@
             "open_issues": 735,
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3078,
+            "stars": 3077,
             "topics": [
               "bitemporal",
               "database",
@@ -2047,10 +2047,10 @@
             "language": "Clojure",
             "license": "EPL-1.0",
             "last_commit": "2026-09-30T23:16:19Z",
-            "open_issues": 99,
+            "open_issues": 101,
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1879,
+            "stars": 1878,
             "topics": [
               "clojure",
               "database",
@@ -2073,7 +2073,7 @@
             "id": 270858421,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-03T00:35:58Z",
+            "last_commit": "2026-10-03T16:33:43Z",
             "open_issues": 29,
             "owner": "datalevin",
             "repo": "datalevin",
@@ -3004,8 +3004,8 @@
             "id": 223576218,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-03T13:12:09Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-04T00:33:23Z",
+            "open_issues": 22,
             "owner": "theronic",
             "repo": "eacl",
             "stars": 97,
@@ -3249,7 +3249,7 @@
             "id": 11588994,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-08-24T15:05:54Z",
+            "last_commit": "2026-10-03T17:28:28Z",
             "open_issues": 22,
             "owner": "yogthos",
             "repo": "Selmer",
@@ -3327,7 +3327,7 @@
             "open_issues": 141,
             "owner": "metosin",
             "repo": "malli",
-            "stars": 1771,
+            "stars": 1770,
             "topics": [
               "clojure",
               "clojurescript",
@@ -4071,7 +4071,7 @@
             "open_issues": 158,
             "owner": "clj-kondo",
             "repo": "clj-kondo",
-            "stars": 1859,
+            "stars": 1860,
             "topics": [
               "clojure",
               "clojurescript",
@@ -5472,7 +5472,7 @@
             "open_issues": 89,
             "owner": "oracle-samples",
             "repo": "clara-rules",
-            "stars": 1237,
+            "stars": 1236,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5565,7 +5565,7 @@
             "language": "Fennel",
             "license": "Unlicense",
             "last_commit": "2026-09-25T12:54:53Z",
-            "open_issues": 91,
+            "open_issues": 97,
             "owner": "Olical",
             "repo": "conjure",
             "stars": 2147,
@@ -5605,7 +5605,7 @@
             "open_issues": 452,
             "owner": "BetterThanTomorrow",
             "repo": "calva",
-            "stars": 2089,
+            "stars": 2088,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -7143,7 +7143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:19:38.543Z",
+    "last_updated": "2026-10-04T14:47:55.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
