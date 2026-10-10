@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T16:12:16Z",
-                "open_issues": 4553,
+                "last_commit": "2026-10-10T12:17:17Z",
+                "open_issues": 4556,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 49596,
+                "stars": 49605,
                 "topics": [
                   "analytics",
                   "bi",
@@ -64,7 +64,7 @@
                 "open_issues": 66,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7520,
+                "stars": 7522,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -248,7 +248,7 @@
                 "open_issues": 4,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 503,
+                "stars": 504,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-09T15:57:51Z",
-                "open_issues": 993,
+                "last_commit": "2026-10-10T15:10:47Z",
+                "open_issues": 994,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45188,
+                "stars": 45197,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -508,7 +508,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10744,
+                "stars": 10743,
                 "topics": [
                   "bash",
                   "c",
@@ -546,8 +546,8 @@
                 "id": 21428070,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-09T02:16:01Z",
-                "open_issues": 96,
+                "last_commit": "2026-10-10T01:46:11Z",
+                "open_issues": 114,
                 "owner": "jank-lang",
                 "repo": "jank",
                 "stars": 3339,
@@ -1175,7 +1175,7 @@
             "open_issues": 82,
             "owner": "metosin",
             "repo": "reitit",
-            "stars": 1586,
+            "stars": 1587,
             "topics": [
               "clojure",
               "clojurescript",
@@ -1529,7 +1529,7 @@
             "open_issues": 44,
             "owner": "thheller",
             "repo": "shadow-cljs",
-            "stars": 2407,
+            "stars": 2406,
             "topics": [
               "cljs",
               "clojurescript",
@@ -1775,7 +1775,7 @@
             "open_issues": 72,
             "owner": "clj-commons",
             "repo": "seesaw",
-            "stars": 1485,
+            "stars": 1484,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1899,7 +1899,7 @@
             "open_issues": 52,
             "owner": "http-kit",
             "repo": "http-kit",
-            "stars": 2564,
+            "stars": 2565,
             "topics": [
               "async",
               "clojure",
@@ -1947,7 +1947,7 @@
             "open_issues": 21,
             "owner": "gnarroway",
             "repo": "hato",
-            "stars": 420,
+            "stars": 421,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -2018,11 +2018,11 @@
             "id": 125824259,
             "language": "Clojure",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-07T19:33:26Z",
-            "open_issues": 738,
+            "last_commit": "2026-10-10T15:16:41Z",
+            "open_issues": 749,
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3079,
+            "stars": 3081,
             "topics": [
               "bitemporal",
               "database",
@@ -2073,7 +2073,7 @@
             "id": 270858421,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-09T05:54:36Z",
+            "last_commit": "2026-10-10T03:36:54Z",
             "open_issues": 28,
             "owner": "datalevin",
             "repo": "datalevin",
@@ -3051,7 +3051,7 @@
             "open_issues": 82,
             "owner": "metosin",
             "repo": "reitit",
-            "stars": 1586,
+            "stars": 1587,
             "topics": [
               "clojure",
               "clojurescript",
@@ -3953,7 +3953,7 @@
             "open_issues": 48,
             "owner": "lambdaisland",
             "repo": "kaocha",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "clojure",
               "clojurescript",
@@ -5493,7 +5493,7 @@
             "open_issues": 23,
             "owner": "oakes",
             "repo": "odoyle-rules",
-            "stars": 573,
+            "stars": 574,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5601,8 +5601,8 @@
             "id": 125431277,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T15:48:32Z",
-            "open_issues": 454,
+            "last_commit": "2026-10-10T14:59:30Z",
+            "open_issues": 456,
             "owner": "BetterThanTomorrow",
             "repo": "calva",
             "stars": 2090,
@@ -5671,7 +5671,7 @@
             "id": 127097119,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-10-07T14:37:49Z",
+            "last_commit": "2026-10-09T17:59:56Z",
             "open_issues": 227,
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
@@ -6692,7 +6692,7 @@
             "open_issues": 64,
             "owner": "dundalek",
             "repo": "closh",
-            "stars": 1627,
+            "stars": 1626,
             "topics": [
               "bash",
               "cli",
@@ -6979,7 +6979,7 @@
             "open_issues": 11,
             "owner": "oakes",
             "repo": "play-cljc",
-            "stars": 567,
+            "stars": 568,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -7143,7 +7143,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:15:25.080Z",
+    "last_updated": "2026-10-10T15:23:58.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
