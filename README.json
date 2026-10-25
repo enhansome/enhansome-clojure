@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T13:07:29Z",
-                "open_issues": 4584,
+                "last_commit": "2026-10-25T13:15:03Z",
+                "open_issues": 4594,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 49829,
+                "stars": 49838,
                 "topics": [
                   "analytics",
                   "bi",
@@ -64,7 +64,7 @@
                 "open_issues": 68,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7537,
+                "stars": 7539,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T23:21:50Z",
-                "open_issues": 1001,
+                "last_commit": "2026-10-25T06:33:21Z",
+                "open_issues": 998,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45355,
+                "stars": 45369,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -508,7 +508,7 @@
                 "open_issues": 56,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10747,
+                "stars": 10749,
                 "topics": [
                   "bash",
                   "c",
@@ -546,11 +546,11 @@
                 "id": 21428070,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-23T22:26:12Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-24T23:45:21Z",
+                "open_issues": 92,
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3362,
+                "stars": 3364,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -578,7 +578,7 @@
                 "id": 35055585,
                 "language": "Emacs Lisp",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T13:34:15Z",
+                "last_commit": "2026-10-24T20:09:58Z",
                 "open_issues": 0,
                 "owner": "LuxLang",
                 "repo": "lux",
@@ -940,8 +940,8 @@
             "id": 1924859,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-10-22T16:41:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-24T16:41:37Z",
+            "open_issues": 4,
             "owner": "clj-commons",
             "repo": "ordered",
             "stars": 271,
@@ -1308,7 +1308,7 @@
             "open_issues": 3,
             "owner": "stuartsierra",
             "repo": "component",
-            "stars": 2167,
+            "stars": 2168,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1487,7 +1487,7 @@
             "open_issues": 94,
             "owner": "technomancy",
             "repo": "leiningen",
-            "stars": 7293,
+            "stars": 7295,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1647,7 +1647,7 @@
             "id": 72018343,
             "language": "Clojure",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:37:43Z",
+            "last_commit": "2026-10-25T12:38:14Z",
             "open_issues": 6,
             "owner": "juxt",
             "repo": "tick",
@@ -1878,7 +1878,7 @@
             "open_issues": 52,
             "owner": "http-kit",
             "repo": "http-kit",
-            "stars": 2566,
+            "stars": 2565,
             "topics": [
               "async",
               "clojure",
@@ -1974,7 +1974,7 @@
             "open_issues": 76,
             "owner": "tonsky",
             "repo": "datascript",
-            "stars": 5797,
+            "stars": 5798,
             "topics": [
               "clojure",
               "clojurescript",
@@ -1997,11 +1997,11 @@
             "id": 125824259,
             "language": "Clojure",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T04:48:57Z",
+            "last_commit": "2026-10-25T11:08:31Z",
             "open_issues": 787,
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3087,
+            "stars": 3090,
             "topics": [
               "bitemporal",
               "database",
@@ -2052,7 +2052,7 @@
             "id": 270858421,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-10-24T04:22:48Z",
+            "last_commit": "2026-10-24T22:33:51Z",
             "open_issues": 26,
             "owner": "datalevin",
             "repo": "datalevin",
@@ -2557,7 +2557,7 @@
             "open_issues": 55,
             "owner": "dakrone",
             "repo": "cheshire",
-            "stars": 1557,
+            "stars": 1558,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -4579,7 +4579,7 @@
             "open_issues": 59,
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
-            "stars": 14272,
+            "stars": 14273,
             "topics": [
               "artificial-intelligence",
               "clojure",
@@ -5517,7 +5517,7 @@
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T11:39:18Z",
-            "open_issues": 29,
+            "open_issues": 27,
             "owner": "clojure-emacs",
             "repo": "cider",
             "stars": 3676,
@@ -5605,7 +5605,7 @@
             "open_issues": 251,
             "owner": "Fuco1",
             "repo": "smartparens",
-            "stars": 1941,
+            "stars": 1940,
             "topics": [
               "emacs",
               "emacs-lisp",
@@ -7014,7 +7014,7 @@
             "open_issues": 46,
             "owner": "bbatsov",
             "repo": "clojure-style-guide",
-            "stars": 4101,
+            "stars": 4102,
             "topics": [
               "clojure",
               "style-guide",
@@ -7122,7 +7122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:21:20.743Z",
+    "last_updated": "2026-10-25T13:43:49.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
