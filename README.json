@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T17:12:58Z",
-                "open_issues": 4653,
+                "last_commit": "2026-11-05T17:11:49Z",
+                "open_issues": 4691,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 50161,
+                "stars": 50183,
                 "topics": [
                   "analytics",
                   "bi",
@@ -64,7 +64,7 @@
                 "open_issues": 68,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7560,
+                "stars": 7565,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -177,7 +177,7 @@
                 "open_issues": 9,
                 "owner": "accelerated-text",
                 "repo": "accelerated-text",
-                "stars": 806,
+                "stars": 805,
                 "topics": [
                   "clojure",
                   "graphql",
@@ -248,7 +248,7 @@
                 "open_issues": 4,
                 "owner": "OneKeePass",
                 "repo": "desktop",
-                "stars": 517,
+                "stars": 520,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T23:54:38Z",
-                "open_issues": 1027,
+                "last_commit": "2026-11-05T16:45:09Z",
+                "open_issues": 1024,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45478,
+                "stars": 45485,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -508,7 +508,7 @@
                 "open_issues": 57,
                 "owner": "kanaka",
                 "repo": "mal",
-                "stars": 10758,
+                "stars": 10759,
                 "topics": [
                   "bash",
                   "c",
@@ -550,7 +550,7 @@
                 "open_issues": 91,
                 "owner": "jank-lang",
                 "repo": "jank",
-                "stars": 3383,
+                "stars": 3386,
                 "topics": [
                   "clojure",
                   "compiler",
@@ -727,7 +727,7 @@
             "id": 135820305,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-11-03T20:45:36Z",
+            "last_commit": "2026-11-05T14:56:22Z",
             "open_issues": 50,
             "owner": "leonoel",
             "repo": "missionary",
@@ -832,7 +832,7 @@
             "open_issues": 37,
             "owner": "redplanetlabs",
             "repo": "specter",
-            "stars": 2631,
+            "stars": 2630,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1102,7 +1102,7 @@
             "open_issues": 17,
             "owner": "pedestal",
             "repo": "pedestal",
-            "stars": 2782,
+            "stars": 2781,
             "topics": [
               "clojure",
               "pedestal"
@@ -1213,7 +1213,7 @@
             "open_issues": 54,
             "owner": "metosin",
             "repo": "compojure-api",
-            "stars": 1126,
+            "stars": 1125,
             "topics": [
               "api",
               "async",
@@ -1329,7 +1329,7 @@
             "open_issues": 15,
             "owner": "weavejester",
             "repo": "integrant",
-            "stars": 1368,
+            "stars": 1369,
             "topics": [
               "clojure",
               "data-driven",
@@ -1508,7 +1508,7 @@
             "open_issues": 43,
             "owner": "thheller",
             "repo": "shadow-cljs",
-            "stars": 2407,
+            "stars": 2408,
             "topics": [
               "cljs",
               "clojurescript",
@@ -1997,11 +1997,11 @@
             "id": 125824259,
             "language": "Clojure",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-04T14:52:42Z",
+            "last_commit": "2026-11-05T14:28:24Z",
             "open_issues": 813,
             "owner": "xtdb",
             "repo": "xtdb",
-            "stars": 3094,
+            "stars": 3095,
             "topics": [
               "bitemporal",
               "database",
@@ -2029,7 +2029,7 @@
             "open_issues": 129,
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "clojure",
               "database",
@@ -2056,7 +2056,7 @@
             "open_issues": 26,
             "owner": "datalevin",
             "repo": "datalevin",
-            "stars": 1492,
+            "stars": 1493,
             "topics": [
               "ai-native",
               "client-server-database",
@@ -3063,7 +3063,7 @@
             "open_issues": 54,
             "owner": "metosin",
             "repo": "compojure-api",
-            "stars": 1126,
+            "stars": 1125,
             "topics": [
               "api",
               "async",
@@ -3387,7 +3387,7 @@
             "id": 218070981,
             "language": "Clojure",
             "license": "EPL-2.0",
-            "last_commit": "2026-09-28T08:30:14Z",
+            "last_commit": "2026-11-05T03:38:14Z",
             "open_issues": 0,
             "owner": "fulcrologic",
             "repo": "guardrails",
@@ -3658,7 +3658,7 @@
             "open_issues": 33,
             "owner": "clj-commons",
             "repo": "manifold",
-            "stars": 1056,
+            "stars": 1057,
             "topics": [
               "async",
               "clojure",
@@ -3852,7 +3852,7 @@
             "open_issues": 4,
             "owner": "taoensso",
             "repo": "sente",
-            "stars": 1796,
+            "stars": 1795,
             "topics": [
               "ajax",
               "async",
@@ -4375,8 +4375,8 @@
             "id": 8894197,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-11-04T16:48:39Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-04T19:03:18Z",
+            "open_issues": 16,
             "owner": "clj-commons",
             "repo": "loom",
             "stars": 892,
@@ -5271,7 +5271,7 @@
             "open_issues": 43,
             "owner": "Engelberg",
             "repo": "instaparse",
-            "stars": 2830,
+            "stars": 2831,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5581,10 +5581,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T15:25:37Z",
-            "open_issues": 439,
+            "open_issues": 444,
             "owner": "BetterThanTomorrow",
             "repo": "calva",
-            "stars": 2094,
+            "stars": 2095,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5651,7 +5651,7 @@
             "language": "Clojure",
             "license": "MIT",
             "last_commit": "2026-10-26T15:30:23Z",
-            "open_issues": 224,
+            "open_issues": 226,
             "owner": "clojure-lsp",
             "repo": "clojure-lsp",
             "stars": 1326,
@@ -6599,7 +6599,7 @@
             "open_issues": 25,
             "owner": "flosell",
             "repo": "lambdacd",
-            "stars": 672,
+            "stars": 671,
             "topics": [
               "build-pipelines",
               "cd",
@@ -7122,7 +7122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:16:47.954Z",
+    "last_updated": "2026-11-05T17:26:09.184Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
