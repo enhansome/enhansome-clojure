@@ -20,11 +20,11 @@
                 "id": 30203935,
                 "language": "Clojure",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T19:01:02Z",
-                "open_issues": 4801,
+                "last_commit": "2026-11-27T19:00:44Z",
+                "open_issues": 4828,
                 "owner": "metabase",
                 "repo": "metabase",
-                "stars": 50592,
+                "stars": 50626,
                 "topics": [
                   "analytics",
                   "bi",
@@ -64,7 +64,7 @@
                 "open_issues": 70,
                 "owner": "jepsen-io",
                 "repo": "jepsen",
-                "stars": 7606,
+                "stars": 7607,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:06.060Z"
@@ -464,11 +464,11 @@
                 "id": 266231149,
                 "language": "Clojure",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T18:51:07Z",
-                "open_issues": 921,
+                "last_commit": "2026-11-27T17:21:50Z",
+                "open_issues": 919,
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 45718,
+                "stars": 45732,
                 "topics": [
                   "clojure",
                   "clojurescript",
@@ -546,8 +546,8 @@
                 "id": 21428070,
                 "language": "C++",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-25T23:32:32Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-27T18:19:05Z",
+                "open_issues": 85,
                 "owner": "jank-lang",
                 "repo": "jank",
                 "stars": 3411,
@@ -832,7 +832,7 @@
             "open_issues": 37,
             "owner": "redplanetlabs",
             "repo": "specter",
-            "stars": 2630,
+            "stars": 2629,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -1076,7 +1076,7 @@
             "open_issues": 7,
             "owner": "weavejester",
             "repo": "compojure",
-            "stars": 4116,
+            "stars": 4115,
             "topics": [
               "clojure",
               "http",
@@ -1098,11 +1098,11 @@
             "id": 8560576,
             "language": "Clojure",
             "license": null,
-            "last_commit": "2026-11-26T17:59:54Z",
+            "last_commit": "2026-11-27T17:55:52Z",
             "open_issues": 17,
             "owner": "pedestal",
             "repo": "pedestal",
-            "stars": 2780,
+            "stars": 2781,
             "topics": [
               "clojure",
               "pedestal"
@@ -1997,8 +1997,8 @@
             "id": 125824259,
             "language": "Clojure",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-26T16:57:03Z",
-            "open_issues": 673,
+            "last_commit": "2026-11-27T18:34:55Z",
+            "open_issues": 674,
             "owner": "xtdb",
             "repo": "xtdb",
             "stars": 3104,
@@ -2025,11 +2025,11 @@
             "id": 116407410,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-11-26T16:27:56Z",
-            "open_issues": 120,
+            "last_commit": "2026-11-27T10:43:50Z",
+            "open_issues": 109,
             "owner": "replikativ",
             "repo": "datahike",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "clojure",
               "database",
@@ -2495,8 +2495,8 @@
             "id": 4305674,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-11-21T04:44:09Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-27T10:05:39Z",
+            "open_issues": 3,
             "owner": "taoensso",
             "repo": "carmine",
             "stars": 1179,
@@ -4046,8 +4046,8 @@
             "id": 176829714,
             "language": "Clojure",
             "license": "EPL-1.0",
-            "last_commit": "2026-11-26T18:05:16Z",
-            "open_issues": 140,
+            "last_commit": "2026-11-27T16:01:06Z",
+            "open_issues": 141,
             "owner": "clj-kondo",
             "repo": "clj-kondo",
             "stars": 1868,
@@ -4255,7 +4255,7 @@
             "open_issues": 78,
             "owner": "incanter",
             "repo": "incanter",
-            "stars": 2248,
+            "stars": 2247,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -4406,7 +4406,7 @@
             "open_issues": 14,
             "owner": "sorenmacbeth",
             "repo": "flambo",
-            "stars": 600,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -4579,7 +4579,7 @@
             "open_issues": 60,
             "owner": "deeplearning4j",
             "repo": "deeplearning4j",
-            "stars": 14288,
+            "stars": 14287,
             "topics": [
               "artificial-intelligence",
               "clojure",
@@ -5004,7 +5004,7 @@
             "open_issues": 7,
             "owner": "rinuboney",
             "repo": "clatern",
-            "stars": 67,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5025,7 +5025,7 @@
             "open_issues": 2,
             "owner": "clojurewerkz",
             "repo": "statistiker",
-            "stars": 65,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5050,6 +5050,34 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
+        },
+        {
+          "node_type": "item",
+          "title": "vis",
+          "description": "open-source coding agent written in Clojure; the model writes Python, folds its own context and runs evals on your own tasks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A coding agent that you adapt to your tools and measure on your own tasks.",
+            "homepage": "https://vis.blockether.com/",
+            "id": 1207377257,
+            "language": "Clojure",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-27T17:15:50Z",
+            "open_issues": 1,
+            "owner": "Blockether",
+            "repo": "vis",
+            "stars": 20,
+            "topics": [
+              "agent",
+              "anthropic",
+              "coding-agent",
+              "openai",
+              "sandbox",
+              "vis"
+            ]
+          },
+          "first_seen": "2026-11-27T19:00:50.744Z"
         },
         {
           "node_type": "item",
@@ -5157,7 +5185,7 @@
             "open_issues": 4,
             "owner": "dakrone",
             "repo": "clojure-opennlp",
-            "stars": 757,
+            "stars": 756,
             "topics": []
           },
           "first_seen": "2026-08-28T20:56:06.060Z"
@@ -5516,8 +5544,8 @@
             "id": 4118920,
             "language": "Emacs Lisp",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T09:33:40Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-27T06:42:36Z",
+            "open_issues": 32,
             "owner": "clojure-emacs",
             "repo": "cider",
             "stars": 3680,
@@ -5547,7 +5575,7 @@
             "open_issues": 89,
             "owner": "Olical",
             "repo": "conjure",
-            "stars": 2155,
+            "stars": 2156,
             "topics": [
               "cider",
               "clojure",
@@ -5580,7 +5608,7 @@
             "id": 125431277,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T21:27:22Z",
+            "last_commit": "2026-11-27T15:06:13Z",
             "open_issues": 440,
             "owner": "BetterThanTomorrow",
             "repo": "calva",
@@ -5923,7 +5951,7 @@
             "open_issues": 83,
             "owner": "viebel",
             "repo": "klipse",
-            "stars": 3130,
+            "stars": 3131,
             "topics": [
               "brainfuck",
               "clojure",
@@ -6197,7 +6225,7 @@
             "open_issues": 97,
             "owner": "bhauman",
             "repo": "lein-figwheel",
-            "stars": 2871,
+            "stars": 2870,
             "topics": [
               "clojure",
               "clojurescript",
@@ -7010,8 +7038,8 @@
             "id": 7427613,
             "language": null,
             "license": null,
-            "last_commit": "2026-11-26T11:16:03Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-27T14:19:47Z",
+            "open_issues": 28,
             "owner": "bbatsov",
             "repo": "clojure-style-guide",
             "stars": 4096,
@@ -7108,7 +7136,7 @@
             "open_issues": 10,
             "owner": "PEZ",
             "repo": "rich4clojure",
-            "stars": 241,
+            "stars": 240,
             "topics": [
               "clojure",
               "clojurescript",
@@ -7122,7 +7150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:03:19.274Z",
+    "last_updated": "2026-11-27T19:00:50.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
@@ -7130,8 +7158,8 @@
       "id": 21657624,
       "language": "Clojure",
       "license": null,
-      "last_commit": "2026-09-15T17:34:04Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-27T09:13:01Z",
+      "open_issues": 0,
       "owner": "razum2um",
       "repo": "awesome-clojure",
       "stars": 2854,
@@ -7141,7 +7169,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "81c650568fd3aab6ce06c612bf3be43c5128ce50",
+    "original_repository_sha": "031b4f52fc3ec65a36639c9d16e99edb83ae8ce3",
     "enhanced_repository": "enhansome/enhansome-clojure",
     "enhanced_repository_description": null,
     "title": "Awesome Clojure with stars"
